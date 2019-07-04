@@ -1,0 +1,1381 @@
+ft_in,ft_out,ft_diff,hum_blatant_in,hum_blatant_out,hum_blatant,authscale,party_strength,pid7,pid3lean,race
+76,13,63,88,76,12,0,3,Strong Democrat,Democrat,White
+71,0,71,91,12,79,0.75,2,Not very strong Republican,Republican,White
+98,48,50,100,53,47,0.25,3,Strong Democrat,Democrat,White
+96,2,94,98,8,90,0.25,1,Lean Democrat,Democrat,White
+99,11,88,100,32,68,0.5,3,Strong Democrat,Democrat,White
+25,81,-56,52,99,-47,NA,3,Strong Democrat,Democrat,White
+100,0,100,NA,NA,NA,NA,3,Strong Democrat,Democrat,White
+98,3,95,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,White
+94,0,94,100,17,83,NA,1,Lean Republican,Republican,White
+79,9,70,95,76,19,NA,1,Lean Democrat,Democrat,Other
+100,5,95,95,35,60,NA,3,Strong Democrat,Democrat,Black
+83,49,34,91,38,53,NA,2,Not very strong Democrat,Democrat,White
+76,33,43,100,99,1,NA,1,Lean Republican,Republican,White
+NA,47,NA,53,52,1,NA,2,Not very strong Democrat,Democrat,White
+41,59,-18,NA,NA,NA,NA,3,Strong Republican,Republican,White
+99,80,19,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,Black
+75,73,2,96,97,-1,NA,2,Not very strong Republican,Republican,White
+70,21,49,83,9,74,1,1,Lean Republican,Republican,White
+81,10,71,74,29,45,NA,3,Strong Democrat,Democrat,Black
+62,3,59,76,10,66,NA,3,Strong Democrat,Democrat,Hispanic
+100,24,76,100,100,0,NA,3,Strong Republican,Republican,Hispanic
+75,50,25,88,62,26,NA,2,Not very strong Republican,Republican,Asian
+79,25,54,100,100,0,NA,3,Strong Democrat,Democrat,White
+81,3,78,67,24,43,NA,2,Not very strong Democrat,Democrat,Hispanic
+77,23,54,84,40,44,NA,3,Strong Republican,Republican,White
+73,67,6,71,51,20,NA,1,Lean Republican,Republican,White
+73,58,15,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,White
+96,12,84,83,10,73,NA,3,Strong Democrat,Democrat,Black
+80,31,49,91,13,78,NA,3,Strong Democrat,Democrat,Hispanic
+80,51,29,86,25,61,NA,2,Not very strong Democrat,Democrat,Black
+78,37,41,NA,NA,NA,NA,2,Not very strong Republican,Republican,White
+51,52,-1,NA,NA,NA,NA,1,Lean Democrat,Democrat,Hispanic
+66,58,8,NA,NA,NA,NA,2,Not very strong Republican,Republican,White
+55,44,11,89,89,0,NA,2,Not very strong Republican,Republican,White
+100,3,97,92,14,78,NA,3,Strong Democrat,Democrat,White
+85,13,72,87,74,13,NA,3,Strong Democrat,Democrat,Hispanic
+96,3,93,93,34,59,NA,3,Strong Democrat,Democrat,Hispanic
+100,60,40,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,White
+90,80,10,NA,NA,NA,NA,3,Strong Democrat,Democrat,Black
+47,47,0,50,50,0,NA,1,Lean Republican,Republican,White
+100,85,15,100,89,11,NA,3,Strong Democrat,Democrat,White
+61,38,23,0,0,0,NA,1,Lean Republican,Republican,White
+72,25,47,78,53,25,NA,2,Not very strong Democrat,Democrat,White
+75,30,45,65,35,30,NA,2,Not very strong Democrat,Democrat,Asian
+28,2,26,89,75,14,0,1,Lean Democrat,Democrat,White
+100,22,78,NA,NA,NA,NA,3,Strong Republican,Republican,White
+92,68,24,98,56,42,NA,3,Strong Democrat,Democrat,Black
+100,26,74,100,100,0,NA,3,Strong Republican,Republican,Hispanic
+51,11,40,NA,NA,NA,NA,1,Lean Republican,Republican,White
+79,82,-3,26,89,-63,NA,3,Strong Democrat,Democrat,Hispanic
+100,4,96,NA,NA,NA,NA,3,Strong Democrat,Democrat,Hispanic
+100,3,97,93,95,-2,NA,3,Strong Republican,Republican,White
+65,22,43,72,26,46,NA,2,Not very strong Democrat,Democrat,Hispanic
+100,4,96,100,0,100,NA,3,Strong Democrat,Democrat,Black
+83,24,59,83,49,34,0.25,3,Strong Democrat,Democrat,White
+100,25,75,100,100,0,NA,1,Lean Republican,Republican,White
+31,1,30,51,1,50,0.5,2,Not very strong Democrat,Democrat,White
+72,42,30,NA,NA,NA,NA,2,Not very strong Republican,Republican,White
+25,24,1,3,3,0,0.25,1,Lean Democrat,Democrat,White
+75,50,25,97,96,1,0.25,1,Lean Republican,Republican,White
+86,59,27,100,NA,NA,0.5,3,Strong Republican,Republican,White
+47,25,22,60,30,30,0.75,1,Lean Republican,Republican,Asian
+100,19,81,97,26,71,0.25,3,Strong Republican,Republican,White
+95,5,90,95,5,90,0.25,2,Not very strong Democrat,Democrat,Black
+88,6,82,98,12,86,0.5,3,Strong Republican,Republican,White
+100,0,100,100,0,100,0.75,3,Strong Republican,Republican,White
+100,2,98,77,0,77,NA,3,Strong Republican,Republican,White
+41,11,30,99,50,49,0.75,3,Strong Republican,Republican,White
+94,4,90,99,52,47,1,3,Strong Republican,Republican,White
+83,1,82,76,38,38,NA,3,Strong Republican,Republican,White
+66,2,64,99,4,95,0,2,Not very strong Democrat,Democrat,White
+80,0,80,NA,NA,NA,0,1,Lean Democrat,Democrat,White
+99,0,99,97,6,91,0.5,3,Strong Democrat,Democrat,White
+71,8,63,97,99,-2,1,2,Not very strong Democrat,Democrat,Hispanic
+92,30,62,95,95,0,0,3,Strong Democrat,Democrat,White
+89,21,68,95,50,45,0.75,3,Strong Democrat,Democrat,White
+100,2,98,94,4,90,0.75,3,Strong Republican,Republican,White
+80,10,70,77,16,61,0,3,Strong Democrat,Democrat,White
+65,66,-1,78,77,1,0.25,2,Not very strong Democrat,Democrat,White
+71,68,3,96,96,0,0.5,2,Not very strong Democrat,Democrat,White
+83,10,73,94,87,7,0,1,Lean Democrat,Democrat,White
+61,7,54,52,10,42,1,1,Lean Republican,Republican,White
+51,25,26,100,100,0,0.5,3,Strong Republican,Republican,White
+80,27,53,92,26,66,0,1,Lean Democrat,Democrat,Black
+68,19,49,82,82,0,0.25,1,Lean Republican,Republican,White
+72,4,68,95,75,20,NA,2,Not very strong Republican,Republican,Other
+77,9,68,NA,NA,NA,0.25,2,Not very strong Democrat,Democrat,White
+60,1,59,76,0,76,1,1,Lean Republican,Republican,White
+60,70,-10,86,67,19,0.75,2,Not very strong Democrat,Democrat,White
+26,0,26,76,1,75,1,3,Strong Republican,Republican,White
+23,16,7,40,34,6,1,1,Lean Republican,Republican,White
+81,79,2,92,86,6,0.75,3,Strong Republican,Republican,White
+95,20,75,94,25,69,NA,3,Strong Democrat,Democrat,White
+100,3,97,100,1,99,0.75,3,Strong Democrat,Democrat,White
+89,78,11,94,88,6,0,3,Strong Republican,Republican,Hispanic
+60,3,57,52,1,51,0.75,2,Not very strong Republican,Republican,White
+94,50,44,100,10,90,0,3,Strong Democrat,Democrat,White
+73,9,64,79,54,25,0.5,3,Strong Republican,Republican,White
+100,24,76,99,NA,NA,0.5,2,Not very strong Republican,Republican,White
+85,1,84,77,26,51,0.5,3,Strong Republican,Republican,White
+59,9,50,76,51,25,1,3,Strong Republican,Republican,White
+72,2,70,78,11,67,NA,1,Lean Republican,Republican,White
+99,4,95,100,7,93,1,2,Not very strong Republican,Republican,White
+9,0,9,51,5,46,NA,3,Strong Republican,Republican,White
+77,3,74,75,50,25,0,1,Lean Democrat,Democrat,Hispanic
+84,2,82,83,19,64,0,3,Strong Democrat,Democrat,White
+84,0,84,85,23,62,0.25,1,Lean Democrat,Democrat,White
+100,3,97,98,3,95,0,3,Strong Democrat,Democrat,Other
+81,78,3,NA,NA,NA,0.5,3,Strong Republican,Republican,Middle Eastern
+60,16,44,75,37,38,1,2,Not very strong Republican,Republican,White
+93,1,92,85,2,83,1,3,Strong Democrat,Democrat,White
+93,20,73,93,82,11,0.5,3,Strong Democrat,Democrat,White
+28,90,-62,92,52,40,NA,1,Lean Democrat,Democrat,White
+94,4,90,100,3,97,0,3,Strong Democrat,Democrat,White
+100,3,97,100,2,98,1,3,Strong Republican,Republican,White
+90,0,90,97,13,84,0.25,3,Strong Democrat,Democrat,White
+82,16,66,72,52,20,0.5,2,Not very strong Republican,Republican,White
+100,30,70,99,98,1,1,3,Strong Republican,Republican,White
+70,44,26,100,100,0,0.75,3,Strong Democrat,Democrat,Black
+69,0,69,76,25,51,0.5,1,Lean Republican,Republican,White
+91,26,65,97,53,44,NA,3,Strong Republican,Republican,White
+84,78,6,NA,NA,NA,0,1,Lean Democrat,Democrat,White
+70,28,42,NA,NA,NA,0,2,Not very strong Republican,Republican,White
+100,1,99,100,75,25,0.5,3,Strong Republican,Republican,White
+71,5,66,78,1,77,0.25,3,Strong Republican,Republican,White
+100,26,74,77,76,1,0.25,3,Strong Democrat,Democrat,Native American
+95,20,75,NA,NA,NA,0,1,Lean Democrat,Democrat,White
+75,41,34,67,26,41,0.5,1,Lean Democrat,Democrat,White
+76,1,75,99,99,0,0,3,Strong Democrat,Democrat,White
+44,48,-4,NA,NA,NA,0,2,Not very strong Republican,Republican,White
+85,2,83,83,16,67,0,3,Strong Democrat,Democrat,White
+60,5,55,47,10,37,0,2,Not very strong Republican,Republican,Hispanic
+75,22,53,72,27,45,0.25,3,Strong Democrat,Democrat,White
+88,0,88,98,84,14,NA,3,Strong Republican,Republican,White
+81,3,78,83,54,29,1,3,Strong Republican,Republican,White
+81,40,41,100,100,0,0,3,Strong Democrat,Democrat,White
+80,5,75,76,26,50,0.75,3,Strong Democrat,Democrat,White
+72,0,72,92,5,87,0.25,1,Lean Democrat,Democrat,White
+66,4,62,96,51,45,0.5,3,Strong Republican,Republican,White
+90,2,88,70,25,45,NA,3,Strong Republican,Republican,Hispanic
+95,7,88,83,39,44,0.75,3,Strong Republican,Republican,White
+51,51,0,100,100,0,0,1,Lean Republican,Republican,White
+74,6,68,100,100,0,NA,3,Strong Democrat,Democrat,White
+91,29,62,93,92,1,NA,3,Strong Republican,Republican,White
+89,5,84,87,5,82,0,3,Strong Democrat,Democrat,White
+61,3,58,92,63,29,NA,1,Lean Democrat,Democrat,White
+83,3,80,99,77,22,NA,2,Not very strong Democrat,Democrat,White
+93,13,80,96,25,71,0.25,3,Strong Republican,Republican,White
+74,0,74,89,28,61,NA,3,Strong Democrat,Democrat,White
+88,0,88,74,49,25,0.25,3,Strong Democrat,Democrat,White
+59,51,8,99,98,1,0.75,2,Not very strong Democrat,Democrat,White
+70,11,59,75,25,50,0,3,Strong Democrat,Democrat,White
+76,3,73,98,12,86,0,3,Strong Democrat,Democrat,White
+90,81,9,89,47,42,0.5,3,Strong Republican,Republican,White
+80,16,64,92,10,82,0.25,1,Lean Democrat,Democrat,White
+78,60,18,NA,NA,NA,0,3,Strong Democrat,Democrat,White
+98,1,97,100,8,92,1,1,Lean Republican,Republican,White
+91,11,80,92,25,67,0.75,2,Not very strong Republican,Republican,White
+69,27,42,87,64,23,0.5,3,Strong Democrat,Democrat,White
+93,0,93,NA,NA,NA,0,3,Strong Democrat,Democrat,White
+76,1,75,95,82,13,0.25,1,Lean Democrat,Democrat,White
+67,53,14,64,57,7,0,2,Not very strong Democrat,Democrat,White
+89,89,0,76,76,0,1,2,Not very strong Republican,Republican,White
+93,41,52,100,76,24,0.5,1,Lean Democrat,Democrat,White
+81,2,79,91,73,18,0.25,1,Lean Republican,Republican,White
+73,69,4,91,43,48,0.75,3,Strong Republican,Republican,White
+100,1,99,100,100,0,0.25,3,Strong Republican,Republican,White
+99,10,89,90,74,16,0.25,3,Strong Democrat,Democrat,White
+50,2,48,90,90,0,0,2,Not very strong Democrat,Democrat,White
+63,43,20,45,44,1,NA,3,Strong Republican,Republican,White
+79,1,78,64,3,61,0.25,3,Strong Democrat,Democrat,Black
+47,15,32,76,76,0,0.25,3,Strong Democrat,Democrat,White
+50,31,19,92,76,16,0.25,2,Not very strong Republican,Republican,White
+79,11,68,85,48,37,0.25,1,Lean Democrat,Democrat,White
+25,1,24,76,26,50,0.75,3,Strong Republican,Republican,White
+50,50,0,90,94,-4,0.25,3,Strong Democrat,Democrat,Black
+81,28,53,88,24,64,1,2,Not very strong Republican,Republican,White
+84,1,83,NA,NA,NA,0,3,Strong Democrat,Democrat,White
+51,22,29,NA,NA,NA,0,2,Not very strong Democrat,Democrat,White
+84,3,81,58,19,39,1,3,Strong Republican,Republican,White
+99,0,99,96,5,91,0.75,3,Strong Republican,Republican,White
+88,3,85,88,58,30,0.25,3,Strong Democrat,Democrat,White
+87,22,65,86,78,8,NA,3,Strong Democrat,Democrat,White
+88,6,82,100,3,97,1,1,Lean Republican,Republican,White
+73,26,47,79,56,23,NA,2,Not very strong Democrat,Democrat,White
+42,1,41,89,89,0,0,1,Lean Democrat,Democrat,White
+82,26,56,80,80,0,0.5,3,Strong Republican,Republican,White
+82,7,75,77,4,73,0.5,3,Strong Democrat,Democrat,White
+100,12,88,100,100,0,0.5,3,Strong Republican,Republican,White
+100,98,2,93,1,92,NA,3,Strong Republican,Republican,White
+81,1,80,100,100,0,0.75,3,Strong Republican,Republican,White
+99,21,78,92,25,67,0.75,1,Lean Republican,Republican,White
+75,11,64,75,25,50,0.5,1,Lean Republican,Republican,White
+48,26,22,NA,NA,NA,0,3,Strong Democrat,Democrat,White
+90,5,85,NA,NA,NA,0.25,3,Strong Democrat,Democrat,White
+89,21,68,82,56,26,0.25,3,Strong Democrat,Democrat,White
+87,3,84,96,23,73,0,2,Not very strong Democrat,Democrat,White
+75,3,72,75,7,68,0,2,Not very strong Democrat,Democrat,White
+6,95,-89,6,89,-83,0.25,3,Strong Republican,Republican,White
+75,1,74,75,25,50,0.25,3,Strong Republican,Republican,White
+75,7,68,96,92,4,0,3,Strong Democrat,Democrat,White
+75,0,75,58,52,6,0.5,3,Strong Republican,Republican,White
+91,50,41,94,70,24,0.75,3,Strong Democrat,Democrat,White
+76,20,56,96,60,36,0,3,Strong Republican,Republican,White
+100,23,77,100,100,0,1,3,Strong Republican,Republican,White
+67,1,66,67,7,60,0,1,Lean Democrat,Democrat,White
+44,0,44,NA,NA,NA,0.25,1,Lean Republican,Republican,White
+79,3,76,81,6,75,0.5,3,Strong Republican,Republican,White
+78,10,68,76,25,51,1,3,Strong Republican,Republican,White
+36,71,-35,100,100,0,0,1,Lean Democrat,Democrat,White
+91,0,91,84,35,49,NA,2,Not very strong Republican,Republican,White
+31,1,30,85,42,43,0.5,1,Lean Republican,Republican,White
+97,49,48,97,76,21,0.5,3,Strong Democrat,Democrat,White
+100,1,99,100,50,50,0.25,3,Strong Democrat,Democrat,White
+61,8,53,96,34,62,0.25,1,Lean Republican,Republican,White
+80,85,-5,85,89,-4,0.5,2,Not very strong Republican,Republican,Hispanic
+100,5,95,97,7,90,1,3,Strong Democrat,Democrat,White
+71,30,41,89,76,13,0.25,3,Strong Democrat,Democrat,White
+86,26,60,76,NA,NA,0.75,3,Strong Democrat,Democrat,White
+82,19,63,90,76,14,0.5,3,Strong Democrat,Democrat,Mixed
+51,50,1,NA,NA,NA,0,2,Not very strong Democrat,Democrat,White
+100,5,95,100,76,24,0.25,3,Strong Democrat,Democrat,White
+90,0,90,100,0,100,0.25,3,Strong Democrat,Democrat,White
+80,3,77,73,2,71,0.25,1,Lean Republican,Republican,Other
+56,45,11,58,51,7,0.5,2,Not very strong Republican,Republican,White
+90,1,89,97,75,22,0,3,Strong Democrat,Democrat,White
+80,25,55,98,NA,NA,NA,2,Not very strong Republican,Republican,White
+50,2,48,52,4,48,0.75,3,Strong Republican,Republican,Hispanic
+75,11,64,73,22,51,0.75,2,Not very strong Republican,Republican,White
+86,0,86,96,90,6,0.25,2,Not very strong Democrat,Democrat,White
+81,25,56,78,68,10,0.25,3,Strong Democrat,Democrat,White
+52,26,26,NA,NA,NA,1,2,Not very strong Democrat,Democrat,White
+72,18,54,NA,NA,NA,NA,3,Strong Democrat,Democrat,White
+29,31,-2,100,100,0,0.5,1,Lean Republican,Republican,White
+100,30,70,90,50,40,NA,2,Not very strong Republican,Republican,White
+100,9,91,100,NA,NA,0.75,3,Strong Republican,Republican,White
+90,70,20,75,51,24,0.75,2,Not very strong Democrat,Democrat,White
+98,2,96,70,17,53,NA,3,Strong Democrat,Democrat,White
+60,26,34,76,12,64,0,3,Strong Republican,Republican,White
+94,79,15,100,92,8,0.75,3,Strong Republican,Republican,White
+81,8,73,93,53,40,1,3,Strong Republican,Republican,White
+75,32,43,91,NA,NA,0.25,2,Not very strong Democrat,Democrat,White
+47,8,39,78,4,74,1,2,Not very strong Republican,Republican,White
+48,0,48,NA,17,NA,0.25,1,Lean Democrat,Democrat,Asian
+31,10,21,78,76,2,0.75,3,Strong Republican,Republican,Black
+99,5,94,100,NA,NA,0.5,3,Strong Democrat,Democrat,Black
+84,6,78,88,31,57,0.75,3,Strong Republican,Republican,White
+100,21,79,100,0,100,0.75,3,Strong Republican,Republican,White
+99,1,98,96,44,52,0.5,3,Strong Republican,Republican,White
+73,3,70,75,25,50,0.75,2,Not very strong Republican,Republican,White
+100,8,92,100,16,84,0.75,2,Not very strong Democrat,Democrat,White
+85,82,3,80,60,20,0.75,2,Not very strong Democrat,Democrat,White
+80,46,34,100,99,1,0,3,Strong Republican,Republican,White
+96,20,76,75,25,50,1,3,Strong Democrat,Democrat,White
+40,6,34,30,17,13,0,1,Lean Democrat,Democrat,White
+79,25,54,95,73,22,0,1,Lean Democrat,Democrat,White
+70,29,41,77,19,58,0.75,3,Strong Republican,Republican,White
+28,5,23,49,5,44,0.75,2,Not very strong Republican,Republican,White
+39,30,9,94,91,3,0.75,2,Not very strong Republican,Republican,White
+92,76,16,96,26,70,0.75,3,Strong Republican,Republican,Black
+76,28,48,64,7,57,0.75,3,Strong Republican,Republican,White
+37,28,9,96,76,20,0.75,1,Lean Democrat,Democrat,White
+82,50,32,92,28,64,0.25,2,Not very strong Republican,Republican,White
+90,12,78,98,6,92,NA,1,Lean Republican,Republican,White
+50,3,47,NA,NA,NA,0.25,1,Lean Republican,Republican,White
+91,2,89,100,100,0,0.5,1,Lean Republican,Republican,White
+62,3,59,66,36,30,0,1,Lean Democrat,Democrat,White
+100,5,95,100,100,0,0.5,3,Strong Democrat,Democrat,White
+55,1,54,56,20,36,0.5,1,Lean Republican,Republican,White
+100,69,31,88,77,11,1,3,Strong Republican,Republican,White
+56,12,44,100,100,0,0,2,Not very strong Democrat,Democrat,White
+94,66,28,100,90,10,0.5,3,Strong Democrat,Democrat,White
+95,5,90,95,5,90,1,3,Strong Republican,Republican,White
+50,51,-1,81,16,65,0.25,1,Lean Republican,Republican,White
+75,1,74,100,100,0,0.75,3,Strong Republican,Republican,White
+60,60,0,51,51,0,0.25,3,Strong Democrat,Democrat,White
+95,26,69,NA,NA,NA,0.25,2,Not very strong Democrat,Democrat,White
+97,81,16,99,99,0,0.25,3,Strong Republican,Republican,White
+92,5,87,97,32,65,NA,1,Lean Democrat,Democrat,White
+75,0,75,75,25,50,0,3,Strong Democrat,Democrat,White
+75,22,53,100,100,0,0.25,1,Lean Democrat,Democrat,White
+99,6,93,NA,NA,NA,0.25,3,Strong Republican,Republican,Native American
+72,27,45,NA,NA,NA,NA,1,Lean Democrat,Democrat,Hispanic
+86,27,59,99,51,48,0.75,3,Strong Republican,Republican,White
+100,75,25,100,80,20,0.5,3,Strong Democrat,Democrat,White
+75,9,66,100,100,0,0,1,Lean Democrat,Democrat,White
+89,1,88,98,NA,NA,0,3,Strong Democrat,Democrat,White
+98,0,98,92,8,84,0.25,3,Strong Democrat,Democrat,White
+90,2,88,94,76,18,0.5,3,Strong Democrat,Democrat,White
+91,1,90,96,3,93,0.25,3,Strong Democrat,Democrat,White
+100,25,75,76,51,25,0.5,3,Strong Democrat,Democrat,White
+98,72,26,84,93,-9,1,1,Lean Democrat,Democrat,Black
+86,9,77,99,NA,NA,1,3,Strong Republican,Republican,White
+80,0,80,99,1,98,0.25,3,Strong Democrat,Democrat,White
+81,6,75,100,3,97,NA,3,Strong Republican,Republican,White
+79,11,68,80,25,55,0.25,2,Not very strong Democrat,Democrat,White
+76,40,36,98,98,0,0.25,3,Strong Republican,Republican,White
+67,7,60,97,51,46,0.75,1,Lean Republican,Republican,White
+60,4,56,92,3,89,0,2,Not very strong Democrat,Democrat,Other
+100,0,100,100,100,0,0.5,3,Strong Republican,Republican,White
+75,3,72,89,85,4,0.25,3,Strong Democrat,Democrat,White
+69,7,62,99,87,12,0.5,1,Lean Republican,Republican,White
+89,1,88,99,97,2,0,1,Lean Republican,Republican,White
+75,36,39,84,40,44,NA,3,Strong Republican,Republican,White
+49,50,-1,100,100,0,0.25,2,Not very strong Democrat,Democrat,White
+76,3,73,76,51,25,0.5,3,Strong Democrat,Democrat,White
+89,9,80,100,6,94,0,1,Lean Democrat,Democrat,White
+43,1,42,64,26,38,0,1,Lean Democrat,Democrat,White
+72,40,32,100,100,0,0.25,1,Lean Republican,Republican,White
+79,13,66,80,24,56,0.5,3,Strong Republican,Republican,White
+76,1,75,87,13,74,0,3,Strong Democrat,Democrat,White
+91,2,89,99,25,74,1,1,Lean Democrat,Democrat,Mixed
+91,21,70,100,2,98,0.75,3,Strong Democrat,Democrat,White
+100,47,53,91,71,20,NA,2,Not very strong Democrat,Democrat,White
+70,37,33,70,37,33,0.75,2,Not very strong Republican,Republican,White
+81,31,50,NA,NA,NA,0,1,Lean Democrat,Democrat,White
+90,61,29,92,59,33,0.75,3,Strong Republican,Republican,White
+50,49,1,NA,NA,NA,0.25,1,Lean Republican,Republican,White
+100,20,80,100,77,23,0.5,2,Not very strong Republican,Republican,White
+75,6,69,100,100,0,0.5,2,Not very strong Republican,Republican,White
+2,1,1,13,11,2,1,2,Not very strong Republican,Republican,White
+94,11,83,97,47,50,0.5,3,Strong Democrat,Democrat,White
+87,72,15,98,77,21,1,3,Strong Democrat,Democrat,White
+97,19,78,92,29,63,1,1,Lean Republican,Republican,White
+93,14,79,91,76,15,1,3,Strong Democrat,Democrat,Black
+100,3,97,NA,NA,NA,NA,3,Strong Democrat,Democrat,White
+11,0,11,9,0,9,0,1,Lean Democrat,Democrat,White
+76,1,75,NA,NA,NA,0.5,3,Strong Republican,Republican,White
+96,10,86,98,0,98,NA,3,Strong Republican,Republican,White
+98,26,72,92,50,42,0.5,3,Strong Democrat,Democrat,White
+70,26,44,81,49,32,0.25,2,Not very strong Democrat,Democrat,Hispanic
+74,20,54,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,White
+72,1,71,NA,NA,NA,0,3,Strong Democrat,Democrat,White
+44,0,44,78,0,78,1,2,Not very strong Democrat,Democrat,Black
+78,0,78,85,67,18,0.25,3,Strong Democrat,Democrat,White
+80,10,70,NA,NA,NA,0,3,Strong Democrat,Democrat,White
+50,51,-1,100,100,0,0.5,1,Lean Republican,Republican,White
+100,9,91,100,25,75,0.5,3,Strong Republican,Republican,White
+76,0,76,80,0,80,0.75,2,Not very strong Republican,Republican,White
+55,18,37,85,68,17,0.5,2,Not very strong Democrat,Democrat,Hispanic
+72,5,67,89,75,14,NA,1,Lean Democrat,Democrat,White
+70,10,60,NA,NA,NA,0.5,1,Lean Republican,Republican,White
+95,5,90,100,8,92,0.25,1,Lean Republican,Republican,White
+81,9,72,77,6,71,0.25,1,Lean Democrat,Democrat,White
+77,10,67,100,100,0,0,3,Strong Democrat,Democrat,White
+91,4,87,83,27,56,NA,3,Strong Republican,Republican,White
+91,23,68,98,25,73,0.25,3,Strong Democrat,Democrat,White
+90,27,63,77,11,66,0.5,3,Strong Democrat,Democrat,White
+99,4,95,94,33,61,NA,3,Strong Democrat,Democrat,Other
+94,25,69,97,91,6,NA,3,Strong Democrat,Democrat,White
+78,4,74,76,73,3,0,2,Not very strong Democrat,Democrat,White
+67,7,60,60,20,40,0.5,1,Lean Democrat,Democrat,Asian
+84,31,53,83,75,8,0.5,3,Strong Democrat,Democrat,White
+97,0,97,96,10,86,0,3,Strong Democrat,Democrat,White
+78,89,-11,96,96,0,0,1,Lean Democrat,Democrat,Black
+85,1,84,100,NA,NA,0.25,2,Not very strong Republican,Republican,White
+69,NA,NA,75,40,35,0,1,Lean Democrat,Democrat,White
+98,25,73,77,60,17,0.25,2,Not very strong Democrat,Democrat,Hispanic
+100,49,51,94,7,87,NA,3,Strong Democrat,Democrat,Hispanic
+100,1,99,100,100,0,0,3,Strong Democrat,Democrat,White
+94,1,93,96,2,94,0.25,3,Strong Democrat,Democrat,White
+86,0,86,NA,NA,NA,1,1,Lean Republican,Republican,White
+87,39,48,100,100,0,NA,3,Strong Republican,Republican,White
+80,13,67,100,100,0,NA,1,Lean Republican,Republican,White
+32,10,22,89,89,0,0.25,3,Strong Democrat,Democrat,White
+90,59,31,99,90,9,0.25,3,Strong Democrat,Democrat,White
+65,NA,NA,100,90,10,0,3,Strong Democrat,Democrat,Hispanic
+90,54,36,81,59,22,0.75,3,Strong Democrat,Democrat,White
+100,1,99,100,1,99,1,3,Strong Republican,Republican,White
+52,45,7,100,100,0,0.5,2,Not very strong Democrat,Democrat,Asian
+100,56,44,72,39,33,0,1,Lean Republican,Republican,Hispanic
+76,43,33,96,91,5,NA,2,Not very strong Democrat,Democrat,White
+80,28,52,85,41,44,NA,2,Not very strong Democrat,Democrat,Asian
+50,50,0,98,100,-2,0,1,Lean Democrat,Democrat,Asian
+91,1,90,100,78,22,0.75,3,Strong Democrat,Democrat,White
+100,29,71,NA,NA,NA,NA,3,Strong Democrat,Democrat,Asian
+25,25,0,100,100,0,1,2,Not very strong Democrat,Democrat,White
+82,NA,NA,25,7,18,NA,3,Strong Democrat,Democrat,White
+85,0,85,100,50,50,NA,2,Not very strong Republican,Republican,White
+88,5,83,76,10,66,1,2,Not very strong Republican,Republican,White
+66,12,54,97,NA,NA,0,2,Not very strong Republican,Republican,White
+88,60,28,100,82,18,0.25,3,Strong Republican,Republican,White
+94,4,90,91,11,80,NA,1,Lean Republican,Republican,White
+100,2,98,98,4,94,1,3,Strong Republican,Republican,White
+60,60,0,98,98,0,1,2,Not very strong Democrat,Democrat,White
+100,5,95,100,58,42,1,3,Strong Democrat,Democrat,Mixed
+100,25,75,100,98,2,0,3,Strong Democrat,Democrat,White
+50,50,0,NA,NA,NA,NA,3,Strong Republican,Republican,White
+96,14,82,98,98,0,0.75,3,Strong Republican,Republican,White
+81,79,2,2,97,-95,0.75,3,Strong Republican,Republican,Hispanic
+66,0,66,96,18,78,0.25,3,Strong Democrat,Democrat,White
+50,10,40,75,25,50,0.25,3,Strong Democrat,Democrat,White
+69,27,42,NA,NA,NA,NA,3,Strong Republican,Republican,White
+100,0,100,100,50,50,NA,3,Strong Republican,Republican,Hispanic
+90,11,79,92,66,26,0,3,Strong Democrat,Democrat,White
+81,43,38,98,69,29,0,3,Strong Democrat,Democrat,White
+34,10,24,89,30,59,0.5,1,Lean Democrat,Democrat,White
+92,50,42,89,24,65,0.5,2,Not very strong Republican,Republican,White
+23,1,22,100,100,0,0.5,1,Lean Democrat,Democrat,White
+84,3,81,69,2,67,0.25,3,Strong Democrat,Democrat,Mixed
+57,6,51,100,100,0,0.25,1,Lean Democrat,Democrat,White
+100,24,76,99,27,72,0.5,2,Not very strong Republican,Republican,White
+51,28,23,63,51,12,0,3,Strong Republican,Republican,White
+81,41,40,51,51,0,0.5,2,Not very strong Democrat,Democrat,White
+98,NA,NA,99,50,49,1,3,Strong Democrat,Democrat,Black
+88,32,56,100,100,0,NA,1,Lean Republican,Republican,Middle Eastern
+80,13,67,75,25,50,0.5,3,Strong Democrat,Democrat,Black
+100,11,89,96,48,48,0.5,3,Strong Republican,Republican,White
+100,2,98,91,6,85,0,3,Strong Democrat,Democrat,White
+73,50,23,NA,NA,NA,0.25,2,Not very strong Republican,Republican,Asian
+92,1,91,87,0,87,NA,3,Strong Democrat,Democrat,White
+97,1,96,91,3,88,NA,3,Strong Republican,Republican,Hispanic
+70,27,43,99,99,0,NA,2,Not very strong Republican,Republican,White
+77,3,74,NA,NA,NA,NA,3,Strong Democrat,Democrat,Other
+90,90,0,85,70,15,0.5,2,Not very strong Democrat,Democrat,White
+82,21,61,87,7,80,1,2,Not very strong Republican,Republican,White
+75,30,45,100,100,0,0,3,Strong Democrat,Democrat,White
+100,1,99,NA,NA,NA,0,3,Strong Democrat,Democrat,Native American
+0,90,-90,21,100,-79,0.25,1,Lean Republican,Republican,White
+95,11,84,NA,NA,NA,0.75,3,Strong Democrat,Democrat,White
+75,37,38,89,72,17,0.5,2,Not very strong Democrat,Democrat,Asian
+90,10,80,100,100,0,0,3,Strong Republican,Republican,White
+86,9,77,NA,NA,NA,0.5,3,Strong Republican,Republican,White
+90,32,58,84,15,69,0.5,2,Not very strong Republican,Republican,Asian
+47,50,-3,95,17,78,0.5,1,Lean Republican,Republican,White
+99,1,98,80,66,14,NA,3,Strong Republican,Republican,White
+91,66,25,100,51,49,1,3,Strong Republican,Republican,White
+50,50,0,97,92,5,0.75,3,Strong Democrat,Democrat,Black
+75,22,53,91,65,26,0,3,Strong Democrat,Democrat,Black
+78,100,-22,13,28,-15,NA,3,Strong Democrat,Democrat,White
+72,30,42,76,61,15,NA,2,Not very strong Democrat,Democrat,White
+90,25,65,97,40,57,NA,3,Strong Republican,Republican,White
+49,29,20,55,47,8,0.75,1,Lean Republican,Republican,White
+71,68,3,58,72,-14,0.25,2,Not very strong Republican,Republican,White
+100,4,96,90,0,90,1,3,Strong Republican,Republican,Black
+77,53,24,76,63,13,NA,3,Strong Democrat,Democrat,Middle Eastern
+78,5,73,100,100,0,NA,1,Lean Democrat,Democrat,White
+94,25,69,75,51,24,NA,3,Strong Republican,Republican,White
+98,26,72,99,97,2,0.25,3,Strong Democrat,Democrat,White
+97,20,77,98,24,74,1,3,Strong Republican,Republican,White
+75,0,75,89,76,13,0.5,3,Strong Democrat,Democrat,White
+80,12,68,100,67,33,NA,2,Not very strong Democrat,Democrat,Black
+98,52,46,100,100,0,NA,3,Strong Republican,Republican,White
+75,31,44,76,51,25,0.25,3,Strong Republican,Republican,White
+88,3,85,80,23,57,NA,3,Strong Republican,Republican,White
+70,15,55,88,78,10,0,1,Lean Democrat,Democrat,Mixed
+80,0,80,90,80,10,NA,2,Not very strong Democrat,Democrat,White
+90,1,89,100,98,2,0.25,1,Lean Democrat,Democrat,White
+85,2,83,100,28,72,0.25,3,Strong Democrat,Democrat,White
+82,3,79,100,100,0,0,3,Strong Democrat,Democrat,White
+51,42,9,NA,NA,NA,0.75,2,Not very strong Republican,Republican,White
+69,21,48,NA,NA,NA,1,1,Lean Republican,Republican,White
+71,6,65,100,79,21,0,3,Strong Democrat,Democrat,White
+75,6,69,100,96,4,0.5,3,Strong Republican,Republican,Native American
+80,12,68,88,26,62,0.5,1,Lean Democrat,Democrat,White
+52,30,22,12,11,1,1,2,Not very strong Democrat,Democrat,White
+62,18,44,74,36,38,0.75,1,Lean Republican,Republican,White
+76,38,38,77,56,21,0.25,3,Strong Democrat,Democrat,White
+80,0,80,100,75,25,1,3,Strong Republican,Republican,White
+74,3,71,85,27,58,NA,2,Not very strong Republican,Republican,White
+92,0,92,97,0,97,1,3,Strong Democrat,Democrat,White
+75,1,74,100,0,100,0.25,1,Lean Democrat,Democrat,White
+99,30,69,100,1,99,0.75,3,Strong Republican,Republican,White
+67,50,17,57,41,16,NA,2,Not very strong Democrat,Democrat,Asian
+75,50,25,86,61,25,0.5,2,Not very strong Democrat,Democrat,White
+93,27,66,NA,NA,NA,NA,3,Strong Democrat,Democrat,White
+50,51,-1,85,85,0,0.5,1,Lean Republican,Republican,White
+38,1,37,87,24,63,0,1,Lean Democrat,Democrat,White
+70,5,65,100,100,0,0,3,Strong Democrat,Democrat,White
+26,2,24,75,25,50,0.25,1,Lean Democrat,Democrat,White
+79,26,53,NA,NA,NA,0.25,2,Not very strong Republican,Republican,White
+88,12,76,93,92,1,0.75,2,Not very strong Republican,Republican,Native American
+53,52,1,NA,NA,NA,0.5,3,Strong Republican,Republican,White
+100,7,93,99,2,97,0,3,Strong Republican,Republican,White
+89,1,88,92,0,92,1,1,Lean Republican,Republican,White
+75,0,75,80,3,77,0,1,Lean Democrat,Democrat,White
+52,48,4,43,27,16,0.75,2,Not very strong Republican,Republican,White
+90,3,87,100,10,90,0.5,3,Strong Republican,Republican,White
+92,13,79,50,51,-1,1,2,Not very strong Republican,Republican,White
+64,NA,NA,62,35,27,0.25,1,Lean Democrat,Democrat,White
+98,3,95,96,2,94,0.25,3,Strong Democrat,Democrat,White
+80,3,77,NA,NA,NA,1,3,Strong Democrat,Democrat,Mixed
+91,28,63,91,32,59,0.5,3,Strong Republican,Republican,White
+74,0,74,70,31,39,NA,2,Not very strong Republican,Republican,White
+91,0,91,100,1,99,0.75,3,Strong Republican,Republican,Other
+93,0,93,89,3,86,0.25,1,Lean Democrat,Democrat,White
+3,92,-89,20,90,-70,0.5,3,Strong Democrat,Democrat,White
+51,6,45,92,51,41,0.25,1,Lean Republican,Republican,White
+99,99,0,NA,NA,NA,0.75,2,Not very strong Republican,Republican,White
+97,0,97,100,2,98,0.5,3,Strong Democrat,Democrat,Mixed
+97,8,89,88,11,77,0,1,Lean Democrat,Democrat,White
+99,14,85,100,0,100,0.25,3,Strong Democrat,Democrat,White
+50,20,30,NA,NA,NA,NA,3,Strong Republican,Republican,White
+73,30,43,79,37,42,NA,3,Strong Democrat,Democrat,White
+85,70,15,91,90,1,NA,1,Lean Democrat,Democrat,Other
+77,1,76,61,10,51,NA,1,Lean Republican,Republican,White
+77,46,31,76,54,22,0,1,Lean Democrat,Democrat,Black
+89,9,80,98,16,82,0.75,3,Strong Democrat,Democrat,White
+93,12,81,93,12,81,0.75,1,Lean Republican,Republican,Hispanic
+75,6,69,NA,NA,NA,0.5,2,Not very strong Democrat,Democrat,White
+81,1,80,90,74,16,0,2,Not very strong Democrat,Democrat,Mixed
+76,29,47,100,100,0,0,3,Strong Democrat,Democrat,White
+84,5,79,99,18,81,0.5,3,Strong Democrat,Democrat,White
+61,48,13,64,53,11,0.75,3,Strong Democrat,Democrat,Hispanic
+73,0,73,100,100,0,0.5,3,Strong Democrat,Democrat,White
+100,12,88,77,27,50,NA,3,Strong Republican,Republican,White
+80,5,75,95,95,0,0.5,1,Lean Democrat,Democrat,White
+77,60,17,77,51,26,0,1,Lean Democrat,Democrat,White
+40,1,39,50,1,49,0.25,1,Lean Democrat,Democrat,White
+78,51,27,58,30,28,0.25,2,Not very strong Democrat,Democrat,Mixed
+74,51,23,NA,NA,NA,1,3,Strong Democrat,Democrat,Black
+77,14,63,86,71,15,0,3,Strong Democrat,Democrat,Mixed
+92,1,91,100,78,22,0,3,Strong Democrat,Democrat,White
+90,0,90,100,100,0,0,3,Strong Republican,Republican,White
+94,10,84,75,28,47,1,3,Strong Republican,Republican,White
+99,7,92,NA,NA,NA,NA,3,Strong Republican,Republican,White
+38,6,32,50,21,29,0,1,Lean Democrat,Democrat,White
+85,4,81,89,15,74,0.25,3,Strong Democrat,Democrat,White
+3,59,-56,33,99,-66,1,2,Not very strong Democrat,Democrat,Native American
+96,1,95,100,26,74,0.5,1,Lean Republican,Republican,White
+88,NA,NA,75,5,70,0.25,3,Strong Democrat,Democrat,White
+100,2,98,99,10,89,1,3,Strong Republican,Republican,White
+78,25,53,NA,NA,NA,NA,3,Strong Republican,Republican,White
+68,25,43,94,49,45,NA,1,Lean Democrat,Democrat,White
+100,45,55,95,5,90,NA,3,Strong Republican,Republican,White
+74,3,71,94,49,45,NA,3,Strong Democrat,Democrat,White
+100,2,98,97,2,95,0.5,3,Strong Democrat,Democrat,Black
+75,1,74,73,3,70,0.75,2,Not very strong Republican,Republican,White
+51,2,49,87,56,31,0.75,1,Lean Republican,Republican,White
+51,49,2,30,30,0,0.75,2,Not very strong Republican,Republican,White
+89,21,68,72,36,36,1,3,Strong Democrat,Democrat,White
+77,56,21,73,51,22,0.75,1,Lean Republican,Republican,White
+63,51,12,100,100,0,1,2,Not very strong Republican,Republican,White
+100,4,96,97,25,72,NA,3,Strong Democrat,Democrat,White
+76,32,44,87,14,73,0.25,3,Strong Republican,Republican,White
+99,31,68,100,48,52,0.5,1,Lean Democrat,Democrat,Black
+61,28,33,67,51,16,NA,3,Strong Republican,Republican,White
+69,3,66,69,3,66,0.5,3,Strong Democrat,Democrat,White
+66,6,60,74,49,25,0,3,Strong Republican,Republican,White
+79,5,74,NA,NA,NA,NA,3,Strong Democrat,Democrat,White
+75,70,5,100,100,0,0,2,Not very strong Democrat,Democrat,White
+100,32,68,90,40,50,0.25,3,Strong Republican,Republican,White
+83,5,78,77,26,51,0.25,1,Lean Republican,Republican,White
+78,26,52,NA,NA,NA,0.5,2,Not very strong Republican,Republican,White
+82,2,80,69,21,48,1,3,Strong Republican,Republican,White
+100,26,74,100,0,100,0,3,Strong Democrat,Democrat,Asian
+80,9,71,99,96,3,0.5,3,Strong Republican,Republican,White
+98,6,92,94,NA,NA,0.75,3,Strong Republican,Republican,White
+76,28,48,58,48,10,0.25,2,Not very strong Republican,Republican,White
+100,0,100,75,50,25,1,3,Strong Republican,Republican,White
+50,27,23,92,84,8,0,1,Lean Democrat,Democrat,White
+100,4,96,99,21,78,0.75,3,Strong Republican,Republican,White
+90,18,72,86,18,68,1,3,Strong Republican,Republican,White
+81,1,80,74,12,62,0.25,1,Lean Democrat,Democrat,White
+65,59,6,80,69,11,NA,2,Not very strong Republican,Republican,Asian
+92,22,70,85,13,72,0.25,3,Strong Democrat,Democrat,White
+60,60,0,NA,NA,NA,0.75,2,Not very strong Republican,Republican,White
+87,16,71,97,76,21,0.75,2,Not very strong Republican,Republican,White
+99,8,91,95,3,92,1,3,Strong Republican,Republican,White
+60,0,60,100,87,13,0,2,Not very strong Democrat,Democrat,White
+81,6,75,91,15,76,0.25,1,Lean Republican,Republican,White
+100,0,100,100,0,100,1,3,Strong Republican,Republican,White
+70,0,70,NA,NA,NA,0,3,Strong Democrat,Democrat,White
+100,31,69,98,NA,NA,0.25,3,Strong Republican,Republican,Asian
+71,20,51,76,29,47,0.75,2,Not very strong Republican,Republican,White
+27,2,25,45,5,40,NA,3,Strong Democrat,Democrat,White
+69,34,35,71,36,35,NA,2,Not very strong Democrat,Democrat,White
+76,74,2,99,67,32,NA,3,Strong Democrat,Democrat,Black
+61,44,17,72,25,47,NA,1,Lean Democrat,Democrat,White
+53,49,4,86,89,-3,NA,3,Strong Republican,Republican,White
+25,1,24,NA,NA,NA,0,3,Strong Democrat,Democrat,White
+13,4,9,NA,NA,NA,0.25,1,Lean Republican,Republican,White
+66,0,66,NA,NA,NA,NA,3,Strong Republican,Republican,White
+73,24,49,19,74,-55,1,1,Lean Republican,Republican,Hispanic
+70,6,64,95,71,24,0.75,2,Not very strong Republican,Republican,White
+98,45,53,95,40,55,0.75,3,Strong Republican,Republican,White
+80,1,79,59,0,59,0,1,Lean Republican,Republican,White
+73,0,73,84,10,74,NA,3,Strong Republican,Republican,White
+97,21,76,98,10,88,0.75,3,Strong Democrat,Democrat,White
+61,39,22,63,51,12,0.5,2,Not very strong Democrat,Democrat,White
+80,0,80,100,51,49,0.5,1,Lean Republican,Republican,White
+38,6,32,89,40,49,0.25,3,Strong Republican,Republican,White
+78,4,74,89,59,30,0.5,3,Strong Democrat,Democrat,White
+32,60,-28,38,92,-54,NA,3,Strong Democrat,Democrat,Black
+100,71,29,97,97,0,0.75,2,Not very strong Republican,Republican,White
+50,25,25,100,100,0,0.5,3,Strong Democrat,Democrat,Black
+78,2,76,NA,NA,NA,0.75,3,Strong Democrat,Democrat,White
+78,27,51,76,57,19,0.75,2,Not very strong Republican,Republican,White
+49,50,-1,48,NA,NA,0.75,3,Strong Democrat,Democrat,White
+77,28,49,NA,56,NA,NA,2,Not very strong Republican,Republican,White
+100,20,80,NA,NA,NA,0.75,3,Strong Democrat,Democrat,White
+89,8,81,93,80,13,0,2,Not very strong Democrat,Democrat,White
+81,32,49,76,25,51,0.75,1,Lean Republican,Republican,White
+69,0,69,100,72,28,0.5,3,Strong Republican,Republican,Mixed
+96,0,96,NA,NA,NA,0,3,Strong Democrat,Democrat,Middle Eastern
+100,5,95,100,24,76,0.5,3,Strong Republican,Republican,White
+78,70,8,85,76,9,NA,1,Lean Republican,Republican,Asian
+70,2,68,76,2,74,0.25,2,Not very strong Republican,Republican,White
+98,11,87,100,NA,NA,NA,3,Strong Democrat,Democrat,White
+79,1,78,100,27,73,0,3,Strong Republican,Republican,White
+100,0,100,95,47,48,NA,3,Strong Democrat,Democrat,White
+49,3,46,50,26,24,NA,1,Lean Republican,Republican,White
+81,4,77,91,23,68,0.75,3,Strong Republican,Republican,Hispanic
+53,31,22,NA,NA,NA,0.25,1,Lean Democrat,Democrat,White
+72,25,47,99,100,-1,NA,3,Strong Republican,Republican,White
+95,6,89,99,2,97,0.75,3,Strong Republican,Republican,White
+60,8,52,51,8,43,NA,1,Lean Republican,Republican,White
+77,38,39,93,92,1,0,2,Not very strong Democrat,Democrat,White
+91,27,64,90,30,60,0.5,2,Not very strong Democrat,Democrat,White
+61,10,51,NA,NA,NA,1,2,Not very strong Republican,Republican,White
+86,10,76,NA,NA,NA,0,3,Strong Democrat,Democrat,White
+41,48,-7,NA,NA,NA,1,1,Lean Democrat,Democrat,White
+93,6,87,84,2,82,0.25,3,Strong Democrat,Democrat,Black
+81,1,80,95,10,85,NA,3,Strong Republican,Republican,White
+90,53,37,86,2,84,0.25,3,Strong Democrat,Democrat,White
+80,26,54,97,90,7,0.25,1,Lean Republican,Republican,White
+100,99,1,100,NA,NA,NA,3,Strong Republican,Republican,White
+73,5,68,88,51,37,0,3,Strong Democrat,Democrat,White
+98,1,97,97,16,81,0.5,3,Strong Democrat,Democrat,Black
+75,45,30,97,95,2,NA,2,Not very strong Republican,Republican,White
+71,15,56,77,35,42,NA,1,Lean Republican,Republican,Hispanic
+99,70,29,98,55,43,0.5,3,Strong Democrat,Democrat,Asian
+94,11,83,94,28,66,0.5,3,Strong Democrat,Democrat,Black
+80,66,14,75,75,0,NA,2,Not very strong Democrat,Democrat,White
+76,68,8,92,88,4,0.5,3,Strong Republican,Republican,White
+97,78,19,97,NA,NA,NA,2,Not very strong Republican,Republican,Black
+99,29,70,100,51,49,0.25,3,Strong Republican,Republican,White
+52,1,51,NA,NA,NA,0.5,2,Not very strong Democrat,Democrat,White
+95,7,88,94,22,72,1,3,Strong Democrat,Democrat,Hispanic
+99,99,0,100,100,0,NA,3,Strong Republican,Republican,White
+80,8,72,100,100,0,0.25,3,Strong Republican,Republican,White
+100,2,98,99,9,90,NA,3,Strong Democrat,Democrat,Black
+95,9,86,86,16,70,0.75,2,Not very strong Republican,Republican,White
+65,24,41,70,50,20,NA,3,Strong Democrat,Democrat,Mixed
+88,50,38,100,NA,NA,NA,3,Strong Republican,Republican,White
+100,80,20,NA,NA,NA,0.75,2,Not very strong Democrat,Democrat,White
+77,1,76,100,100,0,0.75,3,Strong Republican,Republican,Black
+99,100,-1,99,NA,NA,NA,2,Not very strong Republican,Republican,White
+92,3,89,83,29,54,NA,2,Not very strong Republican,Republican,White
+80,0,80,91,1,90,NA,3,Strong Democrat,Democrat,White
+75,49,26,55,52,3,NA,3,Strong Democrat,Democrat,White
+71,10,61,53,31,22,0.75,3,Strong Democrat,Democrat,Mixed
+77,39,38,95,25,70,0.25,1,Lean Democrat,Democrat,White
+94,50,44,97,76,21,NA,2,Not very strong Republican,Republican,Hispanic
+20,1,19,50,50,0,0,1,Lean Democrat,Democrat,Black
+97,5,92,84,8,76,0.5,3,Strong Republican,Republican,White
+81,2,79,100,100,0,0.25,3,Strong Democrat,Democrat,Hispanic
+95,50,45,100,NA,NA,0.25,3,Strong Democrat,Democrat,White
+68,26,42,94,89,5,0,2,Not very strong Democrat,Democrat,White
+93,12,81,90,80,10,NA,3,Strong Democrat,Democrat,White
+100,75,25,100,1,99,1,3,Strong Democrat,Democrat,White
+97,30,67,79,3,76,0,2,Not very strong Democrat,Democrat,Hispanic
+100,29,71,100,NA,NA,1,2,Not very strong Democrat,Democrat,White
+82,75,7,67,91,-24,NA,2,Not very strong Democrat,Democrat,Black
+33,32,1,NA,NA,NA,0,2,Not very strong Republican,Republican,White
+49,46,3,NA,NA,NA,0.5,2,Not very strong Democrat,Democrat,White
+78,60,18,75,70,5,0.5,2,Not very strong Democrat,Democrat,Hispanic
+75,52,23,90,84,6,NA,2,Not very strong Republican,Republican,White
+90,28,62,98,50,48,NA,3,Strong Republican,Republican,White
+50,1,49,100,0,100,1,2,Not very strong Republican,Republican,White
+80,39,41,75,28,47,NA,3,Strong Democrat,Democrat,White
+100,2,98,100,32,68,NA,3,Strong Republican,Republican,White
+78,13,65,96,93,3,0,3,Strong Democrat,Democrat,White
+47,70,-23,NA,NA,NA,NA,3,Strong Republican,Republican,Hispanic
+80,53,27,79,71,8,NA,2,Not very strong Democrat,Democrat,White
+80,50,30,92,60,32,NA,2,Not very strong Democrat,Democrat,White
+79,26,53,99,99,0,NA,2,Not very strong Democrat,Democrat,Black
+78,72,6,99,93,6,NA,3,Strong Democrat,Democrat,Hispanic
+78,65,13,100,100,0,NA,2,Not very strong Democrat,Democrat,White
+98,28,70,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,Hispanic
+83,83,0,95,95,0,0,2,Not very strong Democrat,Democrat,Hispanic
+85,20,65,NA,NA,NA,NA,1,Lean Democrat,Democrat,White
+60,30,30,74,66,8,1,3,Strong Democrat,Democrat,White
+97,50,47,92,20,72,NA,3,Strong Democrat,Democrat,Black
+87,59,28,95,100,-5,0.5,2,Not very strong Democrat,Democrat,Black
+28,70,-42,40,51,-11,0,3,Strong Republican,Republican,White
+60,25,35,83,63,20,0.75,1,Lean Democrat,Democrat,Black
+87,2,85,100,75,25,0.25,3,Strong Democrat,Democrat,White
+98,66,32,NA,NA,NA,NA,3,Strong Democrat,Democrat,White
+79,26,53,100,80,20,0.75,2,Not very strong Republican,Republican,White
+54,18,36,55,31,24,NA,3,Strong Republican,Republican,White
+97,24,73,81,47,34,0.5,3,Strong Democrat,Democrat,Black
+51,49,2,76,35,41,0.75,2,Not very strong Republican,Republican,White
+100,1,99,100,1,99,0,2,Not very strong Republican,Republican,White
+79,72,7,60,55,5,0.75,2,Not very strong Republican,Republican,White
+72,58,14,89,64,25,0.5,2,Not very strong Republican,Republican,White
+75,21,54,70,36,34,0,2,Not very strong Democrat,Democrat,White
+78,49,29,79,54,25,0.25,3,Strong Republican,Republican,White
+99,48,51,100,100,0,NA,2,Not very strong Democrat,Democrat,Black
+100,57,43,100,85,15,NA,3,Strong Republican,Republican,White
+81,75,6,76,81,-5,NA,1,Lean Democrat,Democrat,White
+84,49,35,59,34,25,NA,2,Not very strong Republican,Republican,White
+80,58,22,95,80,15,0.25,2,Not very strong Democrat,Democrat,Hispanic
+53,41,12,NA,NA,NA,1,2,Not very strong Republican,Republican,White
+58,56,2,59,5,54,NA,2,Not very strong Democrat,Democrat,Asian
+29,0,29,61,1,60,0,1,Lean Democrat,Democrat,White
+94,28,66,NA,NA,NA,NA,1,Lean Republican,Republican,White
+90,15,75,100,86,14,0.75,2,Not very strong Democrat,Democrat,Black
+50,45,5,85,34,51,0.5,3,Strong Democrat,Democrat,White
+80,50,30,88,NA,NA,NA,2,Not very strong Democrat,Democrat,White
+89,50,39,NA,NA,NA,0.75,3,Strong Democrat,Democrat,White
+99,31,68,77,19,58,NA,3,Strong Democrat,Democrat,Black
+59,26,33,NA,NA,NA,0.5,3,Strong Democrat,Democrat,Black
+100,29,71,95,74,21,0.25,1,Lean Democrat,Democrat,Mixed
+83,44,39,75,66,9,0.25,1,Lean Democrat,Democrat,White
+78,52,26,100,25,75,0.5,3,Strong Democrat,Democrat,Black
+98,7,91,99,98,1,NA,2,Not very strong Democrat,Democrat,Black
+60,37,23,79,52,27,0,3,Strong Democrat,Democrat,Black
+56,75,-19,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,White
+60,60,0,100,100,0,NA,2,Not very strong Republican,Republican,White
+50,1,49,90,55,35,NA,2,Not very strong Democrat,Democrat,Black
+79,1,78,100,1,99,NA,3,Strong Democrat,Democrat,Hispanic
+51,52,-1,77,58,19,NA,3,Strong Democrat,Democrat,Black
+77,76,1,77,76,1,NA,2,Not very strong Republican,Republican,White
+99,51,48,85,75,10,0.25,2,Not very strong Democrat,Democrat,Asian
+91,11,80,93,30,63,0,1,Lean Democrat,Democrat,Hispanic
+94,10,84,100,71,29,NA,3,Strong Democrat,Democrat,Asian
+61,48,13,100,100,0,0.25,1,Lean Republican,Republican,White
+27,73,-46,81,84,-3,NA,3,Strong Republican,Republican,Hispanic
+98,6,92,96,100,-4,NA,3,Strong Democrat,Democrat,White
+78,78,0,99,98,1,NA,3,Strong Democrat,Democrat,Black
+98,84,14,98,86,12,1,3,Strong Republican,Republican,Black
+87,48,39,87,85,2,0.75,2,Not very strong Democrat,Democrat,White
+57,0,57,97,3,94,NA,3,Strong Democrat,Democrat,Asian
+100,0,100,100,0,100,1,3,Strong Republican,Republican,Hispanic
+48,47,1,84,51,33,0.25,2,Not very strong Democrat,Democrat,Asian
+34,0,34,NA,NA,NA,NA,1,Lean Republican,Republican,White
+96,16,80,100,75,25,NA,3,Strong Democrat,Democrat,White
+73,25,48,11,88,-77,0.5,3,Strong Republican,Republican,White
+96,88,8,97,87,10,1,3,Strong Democrat,Democrat,Black
+72,52,20,100,100,0,NA,2,Not very strong Democrat,Democrat,Black
+96,2,94,90,NA,NA,NA,3,Strong Republican,Republican,White
+99,1,98,NA,NA,NA,1,3,Strong Democrat,Democrat,Black
+91,1,90,76,25,51,0.25,1,Lean Republican,Republican,Hispanic
+100,3,97,100,38,62,0.5,3,Strong Democrat,Democrat,Hispanic
+78,25,53,80,27,53,0,3,Strong Democrat,Democrat,White
+79,81,-2,98,96,2,0.25,2,Not very strong Democrat,Democrat,White
+50,50,0,100,100,0,NA,1,Lean Republican,Republican,Hispanic
+75,4,71,NA,NA,NA,0.25,3,Strong Democrat,Democrat,White
+75,25,50,80,50,30,NA,2,Not very strong Democrat,Democrat,Black
+97,80,17,88,79,9,NA,2,Not very strong Democrat,Democrat,Hispanic
+93,6,87,NA,NA,NA,0,3,Strong Democrat,Democrat,White
+68,24,44,NA,NA,NA,NA,2,Not very strong Republican,Republican,White
+66,6,60,95,7,88,0.5,1,Lean Democrat,Democrat,Hispanic
+61,60,1,100,100,0,0.5,3,Strong Republican,Republican,White
+94,62,32,84,32,52,0.75,3,Strong Democrat,Democrat,White
+72,75,-3,85,49,36,0.5,2,Not very strong Democrat,Democrat,White
+80,11,69,88,37,51,0.5,3,Strong Democrat,Democrat,Black
+100,28,72,94,13,81,1,3,Strong Republican,Republican,Black
+87,15,72,90,52,38,0,3,Strong Democrat,Democrat,White
+95,11,84,90,44,46,0,3,Strong Democrat,Democrat,Hispanic
+93,51,42,89,60,29,0.25,3,Strong Democrat,Democrat,White
+67,33,34,NA,NA,NA,NA,3,Strong Democrat,Democrat,Black
+27,24,3,77,76,1,NA,2,Not very strong Republican,Republican,White
+60,0,60,100,100,0,0,2,Not very strong Democrat,Democrat,White
+100,25,75,91,7,84,NA,3,Strong Republican,Republican,White
+64,30,34,64,51,13,NA,1,Lean Democrat,Democrat,White
+99,6,93,100,2,98,0.5,3,Strong Democrat,Democrat,Black
+61,53,8,85,75,10,NA,1,Lean Democrat,Democrat,White
+50,50,0,50,NA,NA,NA,3,Strong Democrat,Democrat,Hispanic
+84,3,81,76,22,54,1,3,Strong Republican,Republican,White
+91,71,20,93,92,1,0.75,3,Strong Democrat,Democrat,Black
+75,28,47,NA,NA,NA,0.75,1,Lean Republican,Republican,White
+80,50,30,95,90,5,1,2,Not very strong Democrat,Democrat,White
+96,4,92,100,27,73,0.5,3,Strong Democrat,Democrat,Black
+25,1,24,72,50,22,0.25,1,Lean Democrat,Democrat,White
+97,6,91,100,6,94,0.5,3,Strong Republican,Republican,White
+77,1,76,60,0,60,NA,1,Lean Democrat,Democrat,Asian
+97,80,17,71,65,6,NA,3,Strong Democrat,Democrat,White
+100,23,77,100,3,97,0,3,Strong Democrat,Democrat,White
+60,33,27,89,89,0,NA,2,Not very strong Democrat,Democrat,Black
+70,40,30,100,100,0,0.5,3,Strong Democrat,Democrat,White
+75,0,75,75,0,75,0,2,Not very strong Democrat,Democrat,White
+83,58,25,93,23,70,0,3,Strong Democrat,Democrat,White
+76,51,25,94,80,14,NA,2,Not very strong Republican,Republican,White
+100,51,49,100,100,0,1,2,Not very strong Democrat,Democrat,Black
+78,58,20,NA,NA,NA,NA,2,Not very strong Republican,Republican,White
+77,NA,NA,100,17,83,0.75,1,Lean Republican,Republican,Hispanic
+88,56,32,95,72,23,NA,3,Strong Democrat,Democrat,Asian
+67,53,14,66,36,30,0.75,2,Not very strong Democrat,Democrat,White
+90,85,5,100,100,0,0.5,1,Lean Republican,Republican,Asian
+80,78,2,49,49,0,NA,3,Strong Democrat,Democrat,White
+90,29,61,100,100,0,NA,3,Strong Democrat,Democrat,White
+77,7,70,100,25,75,0.25,2,Not very strong Democrat,Democrat,Black
+51,51,0,100,100,0,0.75,2,Not very strong Democrat,Democrat,White
+53,25,28,74,55,19,NA,2,Not very strong Democrat,Democrat,Hispanic
+88,62,26,50,50,0,0,2,Not very strong Democrat,Democrat,Black
+74,50,24,NA,NA,NA,NA,3,Strong Republican,Republican,White
+100,42,58,100,86,14,0.25,2,Not very strong Democrat,Democrat,White
+85,30,55,90,85,5,NA,2,Not very strong Democrat,Democrat,Black
+80,53,27,NA,NA,NA,1,2,Not very strong Democrat,Democrat,Black
+100,4,96,94,7,87,NA,3,Strong Democrat,Democrat,Black
+96,0,96,100,28,72,0.75,3,Strong Republican,Republican,White
+89,1,88,100,100,0,0.75,3,Strong Democrat,Democrat,Black
+NA,2,NA,100,2,98,NA,1,Lean Republican,Republican,Other
+75,0,75,88,50,38,NA,1,Lean Republican,Republican,White
+69,12,57,90,87,3,0,1,Lean Democrat,Democrat,White
+91,3,88,NA,NA,NA,NA,3,Strong Democrat,Democrat,White
+78,11,67,87,86,1,0.5,3,Strong Republican,Republican,White
+82,11,71,93,49,44,0.25,3,Strong Republican,Republican,White
+81,10,71,100,91,9,NA,1,Lean Democrat,Democrat,Hispanic
+88,NA,NA,99,1,98,0.75,3,Strong Republican,Republican,White
+75,50,25,80,80,0,0.75,3,Strong Republican,Republican,White
+30,30,0,100,100,0,0.75,2,Not very strong Republican,Republican,White
+90,89,1,85,85,0,0.5,2,Not very strong Democrat,Democrat,White
+51,55,-4,NA,NA,NA,NA,1,Lean Republican,Republican,Hispanic
+80,10,70,80,40,40,0,1,Lean Democrat,Democrat,White
+78,53,25,89,NA,NA,NA,2,Not very strong Republican,Republican,Hispanic
+53,1,52,99,70,29,0,1,Lean Democrat,Democrat,White
+92,25,67,70,6,64,0.75,2,Not very strong Democrat,Democrat,White
+72,37,35,91,86,5,0.25,1,Lean Democrat,Democrat,White
+71,50,21,72,65,7,0.75,2,Not very strong Democrat,Democrat,Hispanic
+78,1,77,80,32,48,NA,1,Lean Democrat,Democrat,White
+54,6,48,100,100,0,NA,3,Strong Republican,Republican,White
+2,50,-48,57,23,34,NA,1,Lean Democrat,Democrat,Hispanic
+58,47,11,50,50,0,NA,2,Not very strong Democrat,Democrat,White
+93,56,37,81,39,42,NA,3,Strong Democrat,Democrat,Black
+100,2,98,87,NA,NA,NA,3,Strong Republican,Republican,Mixed
+81,75,6,NA,NA,NA,0.5,3,Strong Republican,Republican,White
+88,76,12,74,62,12,NA,2,Not very strong Republican,Republican,White
+53,48,5,75,8,67,1,2,Not very strong Democrat,Democrat,Hispanic
+100,50,50,NA,NA,NA,0.5,1,Lean Democrat,Democrat,White
+97,26,71,83,NA,NA,NA,3,Strong Democrat,Democrat,Black
+72,9,63,99,99,0,0.5,3,Strong Democrat,Democrat,White
+79,70,9,77,54,23,NA,3,Strong Democrat,Democrat,White
+80,27,53,95,94,1,NA,2,Not very strong Democrat,Democrat,White
+86,61,25,NA,NA,NA,NA,1,Lean Democrat,Democrat,White
+77,2,75,88,51,37,NA,3,Strong Democrat,Democrat,Black
+75,91,-16,95,83,12,NA,3,Strong Democrat,Democrat,Black
+74,25,49,NA,NA,NA,0,3,Strong Democrat,Democrat,White
+50,1,49,76,25,51,0,1,Lean Democrat,Democrat,Black
+69,14,55,64,17,47,1,2,Not very strong Democrat,Democrat,Asian
+87,32,55,79,NA,NA,NA,3,Strong Democrat,Democrat,Black
+84,6,78,100,10,90,0.5,2,Not very strong Democrat,Democrat,Mixed
+61,48,13,NA,NA,NA,0.25,2,Not very strong Democrat,Democrat,White
+50,56,-6,78,43,35,0.25,2,Not very strong Democrat,Democrat,White
+89,83,6,91,78,13,0.5,2,Not very strong Democrat,Democrat,Hispanic
+96,27,69,61,44,17,1,3,Strong Democrat,Democrat,Black
+93,76,17,83,75,8,NA,2,Not very strong Democrat,Democrat,Hispanic
+90,20,70,NA,NA,NA,NA,1,Lean Democrat,Democrat,White
+85,0,85,92,51,41,0,3,Strong Democrat,Democrat,White
+100,16,84,98,51,47,NA,1,Lean Republican,Republican,Hispanic
+51,51,0,71,26,45,NA,1,Lean Republican,Republican,White
+94,6,88,89,14,75,0.75,3,Strong Republican,Republican,White
+85,31,54,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,Black
+100,2,98,91,18,73,0.5,3,Strong Democrat,Democrat,Black
+84,21,63,95,88,7,NA,3,Strong Democrat,Democrat,White
+60,0,60,51,38,13,0.75,2,Not very strong Republican,Republican,White
+94,2,92,82,29,53,1,3,Strong Democrat,Democrat,Black
+72,6,66,80,45,35,NA,2,Not very strong Democrat,Democrat,White
+95,78,17,93,61,32,NA,1,Lean Democrat,Democrat,Hispanic
+83,87,-4,77,64,13,0.75,1,Lean Democrat,Democrat,White
+61,5,56,60,35,25,NA,2,Not very strong Republican,Republican,White
+84,12,72,96,40,56,0.25,3,Strong Democrat,Democrat,Black
+81,39,42,90,90,0,0.5,3,Strong Democrat,Democrat,White
+96,12,84,66,8,58,NA,3,Strong Democrat,Democrat,Hispanic
+38,8,30,90,17,73,NA,1,Lean Democrat,Democrat,White
+89,12,77,89,25,64,0,3,Strong Democrat,Democrat,White
+99,13,86,NA,NA,NA,NA,2,Not very strong Republican,Republican,White
+53,5,48,93,4,89,0.75,2,Not very strong Republican,Republican,White
+91,5,86,99,51,48,1,3,Strong Republican,Republican,White
+59,23,36,19,NA,NA,NA,2,Not very strong Republican,Republican,White
+76,29,47,97,52,45,NA,1,Lean Democrat,Democrat,Asian
+98,50,48,75,55,20,NA,3,Strong Democrat,Democrat,Black
+76,56,20,100,100,0,NA,3,Strong Republican,Republican,White
+79,51,28,90,90,0,NA,1,Lean Republican,Republican,White
+89,1,88,83,35,48,0.75,3,Strong Republican,Republican,White
+75,40,35,75,76,-1,NA,3,Strong Democrat,Democrat,White
+74,40,34,60,42,18,NA,2,Not very strong Democrat,Democrat,Hispanic
+69,20,49,100,71,29,NA,2,Not very strong Democrat,Democrat,White
+97,96,1,100,93,7,NA,3,Strong Republican,Republican,Black
+78,8,70,NA,NA,NA,0.25,3,Strong Democrat,Democrat,White
+66,80,-14,89,93,-4,NA,2,Not very strong Republican,Republican,Hispanic
+100,52,48,100,50,50,NA,2,Not very strong Democrat,Democrat,Hispanic
+30,6,24,100,100,0,0.75,2,Not very strong Republican,Republican,White
+80,10,70,85,70,15,0.25,3,Strong Democrat,Democrat,White
+92,25,67,80,1,79,0.75,1,Lean Democrat,Democrat,Mixed
+87,8,79,82,50,32,NA,2,Not very strong Democrat,Democrat,Black
+96,4,92,100,26,74,NA,3,Strong Democrat,Democrat,White
+53,48,5,42,23,19,NA,2,Not very strong Republican,Republican,White
+51,49,2,99,98,1,1,1,Lean Republican,Republican,White
+87,2,85,NA,NA,NA,0.25,3,Strong Democrat,Democrat,Black
+59,35,24,NA,NA,NA,NA,1,Lean Democrat,Democrat,Mixed
+99,50,49,100,100,0,0.75,3,Strong Republican,Republican,White
+85,2,83,89,10,79,0.5,2,Not very strong Democrat,Democrat,White
+81,47,34,76,NA,NA,NA,2,Not very strong Democrat,Democrat,White
+88,23,65,97,76,21,NA,2,Not very strong Democrat,Democrat,White
+50,50,0,100,100,0,NA,1,Lean Republican,Republican,Mixed
+98,6,92,100,0,100,1,3,Strong Republican,Republican,Hispanic
+81,80,1,89,63,26,NA,2,Not very strong Republican,Republican,Hispanic
+61,26,35,75,26,49,0.75,2,Not very strong Democrat,Democrat,Hispanic
+80,1,79,NA,NA,NA,0,3,Strong Democrat,Democrat,White
+85,70,15,90,75,15,NA,1,Lean Democrat,Democrat,White
+74,67,7,100,100,0,0.25,3,Strong Democrat,Democrat,White
+55,48,7,50,54,-4,0.75,2,Not very strong Democrat,Democrat,Asian
+53,54,-1,NA,NA,NA,NA,3,Strong Democrat,Democrat,White
+54,28,26,83,68,15,0.75,1,Lean Democrat,Democrat,White
+64,15,49,76,25,51,NA,2,Not very strong Democrat,Democrat,White
+91,38,53,NA,NA,NA,0.25,3,Strong Republican,Republican,White
+56,15,41,50,20,30,0,2,Not very strong Democrat,Democrat,Hispanic
+89,48,41,96,49,47,0.5,3,Strong Republican,Republican,White
+71,51,20,80,69,11,1,1,Lean Republican,Republican,Native American
+87,6,81,92,21,71,0,3,Strong Democrat,Democrat,White
+77,1,76,100,0,100,NA,3,Strong Democrat,Democrat,White
+76,52,24,38,12,26,NA,2,Not very strong Democrat,Democrat,White
+90,34,56,92,89,3,1,3,Strong Democrat,Democrat,White
+90,0,90,100,10,90,NA,1,Lean Republican,Republican,White
+78,0,78,50,50,0,NA,3,Strong Republican,Republican,White
+67,28,39,72,21,51,0.25,2,Not very strong Democrat,Democrat,White
+91,54,37,61,25,36,0.75,1,Lean Republican,Republican,White
+57,3,54,57,2,55,NA,1,Lean Democrat,Democrat,Asian
+90,58,32,70,45,25,NA,1,Lean Democrat,Democrat,Mixed
+70,22,48,100,73,27,0.5,2,Not very strong Republican,Republican,White
+99,9,90,75,39,36,0.75,3,Strong Republican,Republican,White
+63,53,10,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,Black
+72,43,29,100,100,0,NA,2,Not very strong Republican,Republican,White
+62,3,59,75,54,21,NA,3,Strong Democrat,Democrat,White
+81,25,56,81,50,31,0.5,1,Lean Democrat,Democrat,White
+97,6,91,100,26,74,0.5,2,Not very strong Republican,Republican,White
+78,28,50,58,26,32,0.75,2,Not very strong Republican,Republican,White
+78,22,56,76,51,25,0.25,2,Not very strong Republican,Republican,White
+100,43,57,100,27,73,NA,3,Strong Republican,Republican,White
+74,2,72,81,12,69,0.25,2,Not very strong Democrat,Democrat,White
+95,11,84,93,13,80,0,3,Strong Democrat,Democrat,White
+77,31,46,NA,NA,NA,0.75,1,Lean Republican,Republican,White
+83,6,77,78,17,61,0.25,3,Strong Democrat,Democrat,Asian
+64,46,18,100,100,0,0,2,Not very strong Democrat,Democrat,White
+50,50,0,44,44,0,0.5,1,Lean Republican,Republican,White
+71,22,49,100,75,25,0,2,Not very strong Democrat,Democrat,White
+75,32,43,100,89,11,1,2,Not very strong Republican,Republican,White
+15,10,5,100,25,75,NA,1,Lean Democrat,Democrat,White
+78,29,49,82,41,41,0,3,Strong Democrat,Democrat,White
+40,50,-10,51,52,-1,NA,2,Not very strong Democrat,Democrat,White
+79,50,29,77,16,61,NA,2,Not very strong Democrat,Democrat,Black
+60,5,55,77,48,29,1,2,Not very strong Democrat,Democrat,White
+63,37,26,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,Asian
+72,4,68,100,4,96,NA,3,Strong Republican,Republican,White
+62,2,60,NA,NA,NA,1,2,Not very strong Republican,Republican,White
+74,13,61,50,NA,NA,1,3,Strong Democrat,Democrat,Native American
+83,3,80,100,100,0,NA,3,Strong Democrat,Democrat,Black
+100,3,97,100,3,97,NA,3,Strong Democrat,Democrat,Black
+40,11,29,100,100,0,0,1,Lean Democrat,Democrat,White
+97,3,94,95,68,27,0,3,Strong Democrat,Democrat,White
+81,51,30,NA,NA,NA,NA,3,Strong Democrat,Democrat,White
+82,56,26,89,50,39,NA,2,Not very strong Democrat,Democrat,Hispanic
+9,54,-45,26,64,-38,0.75,2,Not very strong Republican,Republican,White
+49,47,2,99,99,0,NA,1,Lean Republican,Republican,White
+27,4,23,52,52,0,0.25,2,Not very strong Republican,Republican,White
+100,5,95,100,0,100,1,3,Strong Republican,Republican,White
+100,2,98,100,1,99,0.25,3,Strong Democrat,Democrat,White
+74,1,73,100,50,50,0.25,3,Strong Republican,Republican,Mixed
+48,53,-5,84,57,27,NA,2,Not very strong Republican,Republican,White
+100,10,90,100,98,2,0.25,3,Strong Democrat,Democrat,White
+100,1,99,100,NA,NA,NA,3,Strong Democrat,Democrat,White
+84,50,34,99,70,29,NA,1,Lean Republican,Republican,White
+59,50,9,56,44,12,1,2,Not very strong Republican,Republican,White
+48,41,7,NA,NA,NA,0.75,2,Not very strong Republican,Republican,White
+53,20,33,70,4,66,NA,3,Strong Democrat,Democrat,White
+97,3,94,98,4,94,NA,3,Strong Republican,Republican,Asian
+71,65,6,NA,NA,NA,NA,1,Lean Democrat,Democrat,White
+49,52,-3,79,67,12,NA,1,Lean Democrat,Democrat,White
+99,52,47,100,100,0,0,1,Lean Republican,Republican,White
+100,0,100,100,0,100,1,3,Strong Democrat,Democrat,Black
+69,20,49,80,52,28,1,3,Strong Democrat,Democrat,White
+87,41,46,100,100,0,NA,3,Strong Democrat,Democrat,Asian
+100,12,88,100,26,74,0.5,3,Strong Republican,Republican,White
+97,6,91,NA,NA,NA,1,3,Strong Democrat,Democrat,Mixed
+86,41,45,92,57,35,0.5,3,Strong Republican,Republican,Hispanic
+62,85,-23,22,62,-40,NA,1,Lean Republican,Republican,Black
+73,63,10,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,Asian
+69,41,28,74,52,22,0.5,2,Not very strong Democrat,Democrat,Asian
+100,0,100,100,0,100,NA,3,Strong Republican,Republican,White
+84,59,25,84,8,76,1,3,Strong Republican,Republican,White
+90,22,68,96,5,91,0,3,Strong Republican,Republican,White
+78,21,57,77,9,68,1,3,Strong Republican,Republican,White
+70,56,14,75,75,0,0.5,2,Not very strong Republican,Republican,Hispanic
+76,50,26,NA,NA,NA,NA,3,Strong Democrat,Democrat,Black
+75,7,68,85,67,18,NA,2,Not very strong Democrat,Democrat,Black
+90,10,80,89,5,84,1,3,Strong Democrat,Democrat,White
+96,52,44,91,NA,NA,NA,3,Strong Democrat,Democrat,Black
+80,52,28,NA,NA,NA,0.5,3,Strong Democrat,Democrat,Hispanic
+100,49,51,100,100,0,NA,3,Strong Republican,Republican,Hispanic
+59,81,-22,75,39,36,NA,3,Strong Democrat,Democrat,White
+85,29,56,98,58,40,1,3,Strong Democrat,Democrat,Black
+52,50,2,NA,NA,NA,0.25,3,Strong Democrat,Democrat,White
+80,40,40,96,92,4,0.25,3,Strong Republican,Republican,White
+89,3,86,99,1,98,0.75,3,Strong Democrat,Democrat,Black
+90,66,24,98,93,5,1,3,Strong Republican,Republican,White
+75,2,73,45,NA,NA,NA,2,Not very strong Democrat,Democrat,Hispanic
+100,53,47,98,50,48,1,3,Strong Democrat,Democrat,Black
+81,8,73,82,32,50,1,2,Not very strong Republican,Republican,White
+70,35,35,95,85,10,0.5,2,Not very strong Democrat,Democrat,White
+0,90,-90,2,100,-98,0.75,2,Not very strong Republican,Republican,Asian
+75,15,60,65,36,29,NA,1,Lean Republican,Republican,Mixed
+66,5,61,77,21,56,NA,2,Not very strong Republican,Republican,Hispanic
+81,54,27,82,36,46,NA,3,Strong Republican,Republican,White
+81,83,-2,74,75,-1,NA,1,Lean Republican,Republican,Hispanic
+61,50,11,51,49,2,NA,2,Not very strong Democrat,Democrat,Asian
+94,50,44,69,3,66,NA,2,Not very strong Democrat,Democrat,Black
+100,3,97,99,1,98,0.75,3,Strong Democrat,Democrat,White
+85,2,83,100,0,100,NA,3,Strong Democrat,Democrat,Black
+92,12,80,98,76,22,0.5,3,Strong Democrat,Democrat,White
+53,49,4,98,97,1,NA,2,Not very strong Democrat,Democrat,White
+51,30,21,80,25,55,NA,2,Not very strong Democrat,Democrat,Hispanic
+90,0,90,95,1,94,1,3,Strong Republican,Republican,Other
+71,20,51,60,14,46,NA,2,Not very strong Democrat,Democrat,White
+77,52,25,100,25,75,NA,2,Not very strong Republican,Republican,White
+84,36,48,98,98,0,0.25,2,Not very strong Republican,Republican,White
+100,1,99,100,50,50,0.5,1,Lean Democrat,Democrat,White
+100,48,52,100,50,50,NA,1,Lean Republican,Republican,Hispanic
+66,56,10,50,25,25,NA,1,Lean Democrat,Democrat,White
+51,13,38,88,4,84,0.25,1,Lean Democrat,Democrat,White
+0,0,0,100,100,0,1,1,Lean Republican,Republican,Hispanic
+79,2,77,100,50,50,0,2,Not very strong Democrat,Democrat,White
+25,0,25,50,50,0,0.25,2,Not very strong Republican,Republican,White
+72,15,57,81,35,46,NA,2,Not very strong Democrat,Democrat,White
+75,2,73,100,100,0,NA,3,Strong Democrat,Democrat,White
+98,1,97,99,1,98,1,3,Strong Republican,Republican,White
+78,72,6,64,38,26,NA,2,Not very strong Democrat,Democrat,Hispanic
+72,23,49,97,69,28,NA,2,Not very strong Democrat,Democrat,Hispanic
+77,9,68,87,43,44,NA,2,Not very strong Democrat,Democrat,Hispanic
+81,27,54,76,14,62,NA,2,Not very strong Democrat,Democrat,Black
+93,71,22,41,33,8,0.75,2,Not very strong Democrat,Democrat,White
+83,0,83,82,10,72,NA,3,Strong Republican,Republican,White
+95,2,93,97,11,86,1,3,Strong Republican,Republican,White
+88,88,0,100,100,0,0,1,Lean Republican,Republican,White
+75,50,25,NA,NA,NA,0.25,2,Not very strong Democrat,Democrat,Mixed
+79,66,13,76,73,3,0.75,2,Not very strong Democrat,Democrat,Hispanic
+100,0,100,100,76,24,0.25,3,Strong Democrat,Democrat,Hispanic
+100,9,91,100,51,49,1,3,Strong Democrat,Democrat,Hispanic
+30,1,29,98,76,22,0.75,2,Not very strong Democrat,Democrat,Black
+50,52,-2,51,50,1,0.25,1,Lean Republican,Republican,Hispanic
+100,0,100,100,19,81,1,3,Strong Democrat,Democrat,Black
+51,1,50,76,5,71,NA,1,Lean Democrat,Democrat,Hispanic
+50,27,23,85,51,34,NA,2,Not very strong Democrat,Democrat,Black
+87,53,34,51,NA,NA,NA,1,Lean Democrat,Democrat,Black
+50,19,31,100,NA,NA,0.75,3,Strong Republican,Republican,White
+89,25,64,90,50,40,0.75,2,Not very strong Republican,Republican,White
+100,0,100,100,0,100,0.75,3,Strong Republican,Republican,White
+71,40,31,NA,NA,NA,0.25,1,Lean Democrat,Democrat,White
+81,2,79,76,26,50,0,3,Strong Democrat,Democrat,White
+90,0,90,97,13,84,0.5,1,Lean Democrat,Democrat,White
+100,49,51,75,72,3,0.25,3,Strong Democrat,Democrat,Black
+70,25,45,50,50,0,0.75,3,Strong Republican,Republican,Black
+70,56,14,86,67,19,0.25,1,Lean Republican,Republican,White
+3,11,-8,4,3,1,1,2,Not very strong Republican,Republican,White
+90,32,58,81,26,55,0.75,1,Lean Republican,Republican,White
+62,9,53,69,11,58,NA,2,Not very strong Republican,Republican,White
+83,11,72,96,10,86,NA,3,Strong Republican,Republican,White
+85,56,29,100,100,0,NA,2,Not very strong Democrat,Democrat,White
+88,77,11,100,91,9,0.5,2,Not very strong Republican,Republican,White
+69,5,64,52,27,25,NA,3,Strong Democrat,Democrat,White
+95,2,93,100,26,74,0.5,3,Strong Democrat,Democrat,White
+70,49,21,100,100,0,0.5,2,Not very strong Republican,Republican,White
+90,0,90,89,0,89,0,3,Strong Democrat,Democrat,White
+99,99,0,99,99,0,0,2,Not very strong Republican,Republican,White
+96,5,91,92,13,79,0.25,3,Strong Republican,Republican,White
+2,1,1,71,65,6,NA,2,Not very strong Democrat,Democrat,Black
+74,32,42,68,5,63,0.5,3,Strong Democrat,Democrat,White
+91,27,64,89,39,50,NA,3,Strong Democrat,Democrat,Hispanic
+98,7,91,98,29,69,NA,3,Strong Democrat,Democrat,Mixed
+100,100,0,93,4,89,0.5,3,Strong Democrat,Democrat,White
+52,50,2,97,98,-1,NA,3,Strong Republican,Republican,White
+53,51,2,94,96,-2,0,2,Not very strong Republican,Republican,White
+97,51,46,100,NA,NA,NA,3,Strong Democrat,Democrat,Black
+51,51,0,86,82,4,1,1,Lean Democrat,Democrat,White
+78,29,49,74,11,63,0.5,3,Strong Republican,Republican,White
+91,16,75,73,11,62,0.5,3,Strong Republican,Republican,White
+51,2,49,NA,NA,NA,NA,1,Lean Republican,Republican,White
+86,4,82,85,17,68,NA,3,Strong Republican,Republican,White
+98,9,89,81,NA,NA,NA,3,Strong Democrat,Democrat,Hispanic
+80,21,59,100,51,49,0.25,1,Lean Democrat,Democrat,White
+88,31,57,82,52,30,NA,3,Strong Democrat,Democrat,Asian
+82,2,80,50,50,0,0.75,3,Strong Republican,Republican,White
+73,58,15,80,68,12,NA,2,Not very strong Republican,Republican,White
+86,12,74,100,77,23,0.75,3,Strong Republican,Republican,White
+64,50,14,99,98,1,1,3,Strong Republican,Republican,Hispanic
+97,77,20,91,73,18,1,2,Not very strong Republican,Republican,White
+100,2,98,96,0,96,0.75,3,Strong Republican,Republican,White
+50,50,0,76,51,25,NA,2,Not very strong Republican,Republican,Hispanic
+32,1,31,100,100,0,0,3,Strong Democrat,Democrat,White
+62,0,62,58,11,47,0,3,Strong Democrat,Democrat,White
+85,0,85,88,47,41,0,3,Strong Democrat,Democrat,Hispanic
+97,8,89,NA,NA,NA,1,3,Strong Republican,Republican,Black
+80,14,66,76,36,40,NA,2,Not very strong Democrat,Democrat,Hispanic
+77,60,17,100,100,0,NA,1,Lean Democrat,Democrat,White
+86,24,62,70,51,19,0.75,2,Not very strong Republican,Republican,White
+68,7,61,89,33,56,0.25,1,Lean Democrat,Democrat,Hispanic
+91,19,72,NA,NA,NA,0,3,Strong Republican,Republican,White
+89,3,86,100,96,4,0.75,1,Lean Republican,Republican,White
+78,7,71,61,25,36,0.25,3,Strong Republican,Republican,White
+90,49,41,90,65,25,NA,1,Lean Republican,Republican,White
+80,11,69,76,37,39,0,3,Strong Democrat,Democrat,White
+25,1,24,10,0,10,NA,1,Lean Republican,Republican,Other
+98,31,67,100,100,0,0,1,Lean Republican,Republican,White
+50,10,40,70,51,19,0,1,Lean Republican,Republican,White
+76,4,72,100,100,0,NA,3,Strong Democrat,Democrat,Black
+99,0,99,92,2,90,0.75,3,Strong Republican,Republican,White
+99,2,97,100,2,98,0.5,1,Lean Republican,Republican,White
+83,70,13,NA,NA,NA,NA,3,Strong Republican,Republican,White
+66,11,55,NA,NA,NA,NA,3,Strong Democrat,Democrat,Black
+91,3,88,100,100,0,0.5,3,Strong Republican,Republican,Hispanic
+72,10,62,80,17,63,NA,3,Strong Democrat,Democrat,Hispanic
+87,69,18,75,45,30,0.5,2,Not very strong Democrat,Democrat,Hispanic
+93,28,65,92,31,61,NA,1,Lean Republican,Republican,White
+79,48,31,80,28,52,0.25,3,Strong Democrat,Democrat,Black
+97,30,67,98,98,0,0.75,3,Strong Democrat,Democrat,White
+91,34,57,90,23,67,NA,2,Not very strong Republican,Republican,White
+95,0,95,100,90,10,NA,3,Strong Republican,Republican,White
+71,4,67,92,25,67,NA,3,Strong Republican,Republican,White
+5,NA,NA,25,7,18,NA,3,Strong Democrat,Democrat,Black
+82,24,58,85,22,63,NA,3,Strong Republican,Republican,Hispanic
+100,3,97,77,55,22,0.5,2,Not very strong Democrat,Democrat,Black
+60,2,58,80,10,70,0,3,Strong Democrat,Democrat,White
+100,0,100,100,100,0,NA,3,Strong Democrat,Democrat,Mixed
+100,24,76,64,35,29,NA,3,Strong Democrat,Democrat,White
+80,2,78,51,10,41,0,3,Strong Republican,Republican,White
+75,25,50,76,76,0,0.5,3,Strong Republican,Republican,White
+75,53,22,NA,NA,NA,NA,1,Lean Democrat,Democrat,Black
+89,30,59,100,75,25,0,3,Strong Democrat,Democrat,White
+100,8,92,98,3,95,NA,2,Not very strong Democrat,Democrat,Hispanic
+78,8,70,84,11,73,NA,3,Strong Democrat,Democrat,Black
+100,NA,NA,75,0,75,NA,3,Strong Democrat,Democrat,Asian
+94,0,94,91,25,66,NA,3,Strong Democrat,Democrat,White
+78,26,52,NA,NA,NA,NA,3,Strong Democrat,Democrat,Hispanic
+2,3,-1,100,1,99,NA,3,Strong Republican,Republican,White
+79,1,78,82,33,49,NA,3,Strong Democrat,Democrat,White
+83,64,19,91,57,34,1,3,Strong Republican,Republican,Hispanic
+72,55,17,83,77,6,NA,2,Not very strong Republican,Republican,White
+50,0,50,100,50,50,NA,1,Lean Democrat,Democrat,Black
+80,48,32,85,73,12,0.25,3,Strong Democrat,Democrat,White
+23,26,-3,99,98,1,1,2,Not very strong Republican,Republican,White
+81,6,75,85,76,9,0.25,1,Lean Democrat,Democrat,White
+86,13,73,95,37,58,NA,3,Strong Democrat,Democrat,White
+1,0,1,95,4,91,NA,3,Strong Democrat,Democrat,Black
+83,73,10,NA,NA,NA,0.5,2,Not very strong Democrat,Democrat,White
+46,53,-7,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,White
+90,21,69,NA,NA,NA,0.25,3,Strong Democrat,Democrat,White
+100,11,89,96,6,90,NA,3,Strong Democrat,Democrat,Hispanic
+99,73,26,99,99,0,0.75,3,Strong Republican,Republican,White
+87,1,86,NA,NA,NA,NA,3,Strong Republican,Republican,White
+85,39,46,90,80,10,0.25,3,Strong Democrat,Democrat,White
+53,51,2,78,36,42,NA,1,Lean Democrat,Democrat,Black
+100,22,78,100,3,97,NA,3,Strong Democrat,Democrat,White
+91,50,41,88,54,34,NA,3,Strong Republican,Republican,Hispanic
+81,52,29,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,Black
+78,20,58,51,49,2,0,3,Strong Democrat,Democrat,White
+79,2,77,92,4,88,NA,3,Strong Republican,Republican,White
+65,67,-2,65,87,-22,NA,1,Lean Republican,Republican,Black
+3,1,2,25,1,24,0.5,2,Not very strong Republican,Republican,White
+50,10,40,50,50,0,NA,3,Strong Republican,Republican,Asian
+76,1,75,100,100,0,0.25,3,Strong Democrat,Democrat,White
+91,30,61,100,100,0,0.25,3,Strong Republican,Republican,White
+99,0,99,86,12,74,0.75,3,Strong Democrat,Democrat,Black
+92,53,39,100,96,4,0.5,3,Strong Democrat,Democrat,Black
+96,37,59,100,96,4,0.25,3,Strong Democrat,Democrat,White
+94,50,44,97,76,21,NA,2,Not very strong Democrat,Democrat,Hispanic
+89,22,67,74,23,51,NA,2,Not very strong Republican,Republican,White
+51,51,0,90,54,36,1,2,Not very strong Democrat,Democrat,Hispanic
+74,55,19,98,64,34,0.5,1,Lean Republican,Republican,White
+52,52,0,NA,NA,NA,NA,1,Lean Republican,Republican,White
+97,6,91,89,NA,NA,NA,3,Strong Democrat,Democrat,Black
+75,0,75,85,38,47,1,3,Strong Democrat,Democrat,Black
+90,0,90,79,0,79,NA,2,Not very strong Republican,Republican,Hispanic
+73,16,57,74,74,0,NA,2,Not very strong Democrat,Democrat,White
+50,1,49,98,77,21,NA,1,Lean Republican,Republican,White
+100,6,94,96,9,87,0.25,3,Strong Democrat,Democrat,White
+89,23,66,65,33,32,0,3,Strong Democrat,Democrat,Other
+79,3,76,87,31,56,0,1,Lean Democrat,Democrat,White
+89,2,87,99,99,0,0.25,2,Not very strong Republican,Republican,White
+90,32,58,86,26,60,0.75,2,Not very strong Republican,Republican,White
+99,10,89,25,76,-51,NA,3,Strong Republican,Republican,White
+99,30,69,89,32,57,0.75,3,Strong Republican,Republican,White
+76,0,76,85,50,35,0.75,3,Strong Republican,Republican,White
+71,6,65,100,100,0,0.25,1,Lean Republican,Republican,White
+2,1,1,100,100,0,NA,3,Strong Republican,Republican,Black
+31,34,-3,98,51,47,0,3,Strong Republican,Republican,White
+100,4,96,100,26,74,NA,2,Not very strong Democrat,Democrat,Hispanic
+66,29,37,76,25,51,0,2,Not very strong Democrat,Democrat,White
+90,27,63,100,99,1,0,3,Strong Democrat,Democrat,White
+58,27,31,100,100,0,0.5,2,Not very strong Republican,Republican,White
+80,50,30,98,4,94,0.5,2,Not very strong Republican,Republican,Mixed
+60,30,30,75,75,0,0.25,3,Strong Democrat,Democrat,White
+100,0,100,100,42,58,0.5,3,Strong Democrat,Democrat,White
+70,0,70,75,0,75,NA,1,Lean Republican,Republican,White
+74,25,49,90,90,0,0.25,1,Lean Republican,Republican,White
+79,10,69,100,100,0,0.25,2,Not very strong Republican,Republican,White
+100,0,100,98,76,22,NA,3,Strong Republican,Republican,Hispanic
+90,1,89,75,25,50,NA,3,Strong Democrat,Democrat,Hispanic
+31,21,10,44,44,0,0.5,1,Lean Republican,Republican,White
+98,0,98,98,0,98,NA,3,Strong Democrat,Democrat,White
+66,24,42,NA,NA,NA,1,1,Lean Republican,Republican,White
+90,4,86,100,41,59,0,1,Lean Democrat,Democrat,White
+0,0,0,100,100,0,0.5,1,Lean Republican,Republican,White
+76,7,69,NA,NA,NA,NA,3,Strong Democrat,Democrat,White
+76,1,75,72,20,52,1,1,Lean Republican,Republican,White
+80,0,80,92,0,92,0.75,1,Lean Republican,Republican,White
+87,9,78,97,33,64,NA,1,Lean Republican,Republican,White
+86,0,86,99,74,25,NA,3,Strong Democrat,Democrat,Hispanic
+62,44,18,66,44,22,0.5,1,Lean Democrat,Democrat,Hispanic
+94,71,23,90,17,73,1,3,Strong Republican,Republican,White
+79,53,26,89,NA,NA,NA,2,Not very strong Democrat,Democrat,White
+100,55,45,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,Black
+100,4,96,99,50,49,0.25,3,Strong Republican,Republican,White
+80,51,29,NA,NA,NA,1,3,Strong Republican,Republican,White
+99,33,66,100,100,0,NA,2,Not very strong Democrat,Democrat,Black
+97,50,47,99,50,49,NA,3,Strong Republican,Republican,White
+100,2,98,98,36,62,0.75,2,Not very strong Democrat,Democrat,Black
+79,48,31,NA,NA,NA,NA,3,Strong Democrat,Democrat,Black
+96,99,-3,100,3,97,NA,3,Strong Republican,Republican,White
+82,5,77,84,52,32,0,3,Strong Democrat,Democrat,White
+89,8,81,96,8,88,NA,1,Lean Democrat,Democrat,Hispanic
+84,25,59,99,98,1,0.25,3,Strong Democrat,Democrat,White
+99,22,77,100,100,0,NA,1,Lean Republican,Republican,White
+51,51,0,NA,NA,NA,NA,1,Lean Democrat,Democrat,White
+90,0,90,100,4,96,0.75,3,Strong Republican,Republican,White
+80,5,75,100,10,90,0.25,3,Strong Democrat,Democrat,White
+75,27,48,81,36,45,0.25,2,Not very strong Republican,Republican,White
+99,12,87,94,8,86,1,3,Strong Democrat,Democrat,Mixed
+78,16,62,100,100,0,0.75,3,Strong Republican,Republican,White
+75,11,64,NA,NA,NA,1,1,Lean Republican,Republican,White
+21,80,-59,32,95,-63,NA,3,Strong Republican,Republican,White
+59,43,16,92,76,16,0.25,3,Strong Democrat,Democrat,White
+81,30,51,99,99,0,0,3,Strong Republican,Republican,White
+97,13,84,94,51,43,NA,3,Strong Democrat,Democrat,Black
+100,0,100,99,5,94,0.5,3,Strong Republican,Republican,White
+76,38,38,78,46,32,0.25,1,Lean Democrat,Democrat,Other
+98,4,94,98,2,96,0.75,3,Strong Republican,Republican,White
+90,41,49,50,25,25,0.25,3,Strong Republican,Republican,White
+75,1,74,95,NA,NA,0.25,2,Not very strong Democrat,Democrat,White
+83,34,49,94,55,39,NA,3,Strong Democrat,Democrat,White
+97,63,34,99,94,5,0.25,3,Strong Republican,Republican,White
+63,10,53,95,51,44,0,3,Strong Republican,Republican,White
+75,77,-2,51,54,-3,NA,2,Not very strong Republican,Republican,Hispanic
+80,41,39,97,2,95,0.75,2,Not very strong Republican,Republican,White
+64,0,64,95,51,44,0.25,2,Not very strong Democrat,Democrat,Black
+67,22,45,100,100,0,NA,1,Lean Republican,Republican,White
+100,75,25,100,1,99,NA,3,Strong Democrat,Democrat,Black
+92,48,44,99,49,50,NA,3,Strong Democrat,Democrat,White
+80,10,70,81,19,62,1,1,Lean Republican,Republican,White
+93,5,88,76,22,54,1,3,Strong Republican,Republican,White
+100,10,90,51,26,25,1,3,Strong Democrat,Democrat,White
+95,11,84,77,25,52,0.5,3,Strong Republican,Republican,White
+80,80,0,100,99,1,NA,1,Lean Republican,Republican,Hispanic
+53,17,36,87,20,67,0.25,2,Not very strong Democrat,Democrat,Hispanic
+99,50,49,NA,NA,NA,0.5,3,Strong Republican,Republican,White
+74,3,71,77,8,69,NA,3,Strong Democrat,Democrat,Asian
+80,23,57,99,21,78,0.25,3,Strong Democrat,Democrat,Hispanic
+70,70,0,100,100,0,0.5,1,Lean Republican,Republican,Native American
+79,53,26,NA,NA,NA,0.75,2,Not very strong Democrat,Democrat,White
+75,10,65,NA,NA,NA,0.75,3,Strong Republican,Republican,White
+70,69,1,97,50,47,NA,1,Lean Republican,Republican,White
+93,3,90,96,2,94,0.5,3,Strong Republican,Republican,White
+56,0,56,100,100,0,0.25,1,Lean Republican,Republican,White
+85,26,59,96,81,15,NA,3,Strong Democrat,Democrat,White
+72,0,72,91,18,73,0.5,1,Lean Republican,Republican,White
+79,11,68,100,98,2,0.5,3,Strong Republican,Republican,White
+74,28,46,80,75,5,0,3,Strong Democrat,Democrat,White
+29,87,-58,76,92,-16,0,2,Not very strong Republican,Republican,White
+100,11,89,100,100,0,0,3,Strong Democrat,Democrat,White
+82,5,77,NA,NA,NA,1,3,Strong Republican,Republican,Black
+97,18,79,89,37,52,0.25,3,Strong Democrat,Democrat,White
+81,5,76,89,78,11,0.75,3,Strong Republican,Republican,White
+100,3,97,100,35,65,0.25,3,Strong Democrat,Democrat,White
+49,47,2,96,56,40,0.75,1,Lean Republican,Republican,White
+32,8,24,88,78,10,NA,2,Not very strong Democrat,Democrat,White
+100,0,100,100,0,100,NA,3,Strong Republican,Republican,White
+90,0,90,78,4,74,NA,2,Not very strong Republican,Republican,White
+75,2,73,80,75,5,0,3,Strong Democrat,Democrat,White
+77,2,75,69,20,49,1,1,Lean Republican,Republican,Other
+60,2,58,86,29,57,0.25,1,Lean Republican,Republican,White
+72,26,46,87,75,12,0.25,3,Strong Republican,Republican,White
+91,3,88,100,100,0,NA,1,Lean Democrat,Democrat,White
+79,30,49,86,38,48,NA,3,Strong Republican,Republican,White
+72,29,43,86,53,33,0.75,1,Lean Republican,Republican,Other
+91,76,15,97,97,0,NA,1,Lean Republican,Republican,White
+80,13,67,99,72,27,NA,2,Not very strong Democrat,Democrat,White
+77,21,56,76,25,51,NA,1,Lean Democrat,Democrat,White
+74,38,36,100,100,0,NA,1,Lean Republican,Republican,White
+79,18,61,90,9,81,NA,2,Not very strong Democrat,Democrat,Asian
+90,52,38,90,76,14,0,3,Strong Democrat,Democrat,White
+40,12,28,54,3,51,1,1,Lean Republican,Republican,White
+78,56,22,99,26,73,NA,3,Strong Democrat,Democrat,Hispanic
+93,29,64,88,50,38,NA,3,Strong Democrat,Democrat,Mixed
+90,0,90,80,50,30,0.75,1,Lean Republican,Republican,White
+79,33,46,91,83,8,NA,2,Not very strong Democrat,Democrat,Black
+90,20,70,NA,NA,NA,0.5,1,Lean Republican,Republican,White
+75,16,59,96,26,70,0.5,3,Strong Republican,Republican,White
+99,27,72,95,50,45,NA,3,Strong Democrat,Democrat,Hispanic
+80,11,69,95,61,34,0.75,1,Lean Republican,Republican,White
+12,100,-88,88,6,82,NA,1,Lean Democrat,Democrat,White
+76,6,70,94,78,16,0,3,Strong Republican,Republican,White
+78,30,48,78,17,61,0.75,1,Lean Republican,Republican,White
+88,84,4,NA,NA,NA,0.25,2,Not very strong Democrat,Democrat,White
+94,4,90,100,2,98,0.5,1,Lean Republican,Republican,White
+100,2,98,100,77,23,0.75,1,Lean Republican,Republican,Hispanic
+100,25,75,100,73,27,0.75,3,Strong Democrat,Democrat,White
+64,29,35,64,35,29,0.25,1,Lean Republican,Republican,White
+100,5,95,82,53,29,NA,1,Lean Democrat,Democrat,White
+69,36,33,83,52,31,0.75,3,Strong Republican,Republican,White
+91,94,-3,93,94,-1,NA,3,Strong Democrat,Democrat,Black
+72,1,71,99,93,6,0,3,Strong Democrat,Democrat,White
+75,0,75,100,100,0,NA,1,Lean Democrat,Democrat,White
+51,50,1,86,50,36,0.25,2,Not very strong Democrat,Democrat,White
+90,8,82,91,50,41,NA,3,Strong Democrat,Democrat,White
+91,13,78,99,29,70,1,3,Strong Republican,Republican,White
+100,5,95,99,20,79,NA,3,Strong Republican,Republican,White
+79,76,3,48,49,-1,0.5,2,Not very strong Democrat,Democrat,White
+76,58,18,99,99,0,NA,3,Strong Democrat,Democrat,Hispanic
+100,82,18,80,90,-10,NA,3,Strong Republican,Republican,Black
+93,81,12,91,89,2,NA,2,Not very strong Republican,Republican,White
+76,49,27,88,51,37,NA,3,Strong Republican,Republican,White
+81,74,7,47,51,-4,NA,2,Not very strong Democrat,Democrat,Hispanic
+80,59,21,95,82,13,NA,1,Lean Republican,Republican,White
+75,0,75,90,3,87,NA,2,Not very strong Democrat,Democrat,Mixed
+84,24,60,100,NA,NA,NA,2,Not very strong Democrat,Democrat,Black
+80,NA,NA,85,26,59,NA,3,Strong Democrat,Democrat,Black
+100,0,100,100,100,0,0.5,3,Strong Republican,Republican,Hispanic
+75,10,65,NA,NA,NA,NA,3,Strong Democrat,Democrat,White
+78,49,29,69,52,17,1,3,Strong Democrat,Democrat,Black
+78,62,16,92,87,5,NA,2,Not very strong Democrat,Democrat,Mixed
+74,29,45,76,50,26,0,3,Strong Democrat,Democrat,White
+81,29,52,NA,NA,NA,NA,2,Not very strong Democrat,Democrat,Hispanic
+80,63,17,72,61,11,NA,2,Not very strong Republican,Republican,Hispanic
+82,1,81,94,27,67,NA,1,Lean Democrat,Democrat,White
+80,4,76,92,81,11,0.25,1,Lean Republican,Republican,White
+71,26,45,94,88,6,NA,3,Strong Republican,Republican,White
+76,3,73,NA,NA,NA,0,1,Lean Republican,Republican,White
+59,1,58,100,100,0,0,3,Strong Democrat,Democrat,Black
+99,NA,NA,51,36,15,0.5,1,Lean Republican,Republican,Native American
+85,90,-5,NA,NA,NA,0.5,1,Lean Republican,Republican,White
+97,93,4,94,76,18,0,2,Not very strong Democrat,Democrat,White
+80,51,29,100,100,0,0.25,2,Not very strong Republican,Republican,White
+80,49,31,100,100,0,0.75,3,Strong Republican,Republican,White
+85,85,0,85,0,85,0,1,Lean Democrat,Democrat,White
+61,16,45,59,38,21,0.25,2,Not very strong Democrat,Democrat,White
+80,21,59,89,31,58,0,1,Lean Democrat,Democrat,Mixed
+100,1,99,92,25,67,0.5,1,Lean Republican,Republican,White
+47,46,1,100,100,0,1,2,Not very strong Republican,Republican,White
+72,25,47,62,40,22,0.25,3,Strong Democrat,Democrat,White
+80,20,60,81,61,20,0,3,Strong Democrat,Democrat,White
+77,10,67,76,27,49,NA,1,Lean Republican,Republican,White
+85,34,51,99,99,0,0,1,Lean Democrat,Democrat,White
+68,6,62,98,27,71,0,3,Strong Democrat,Democrat,White
+87,34,53,100,100,0,1,1,Lean Republican,Republican,White
+98,55,43,68,52,16,1,2,Not very strong Democrat,Democrat,White
+100,14,86,98,40,58,0.5,3,Strong Republican,Republican,White
+87,13,74,94,17,77,0.25,3,Strong Republican,Republican,White
+96,9,87,100,50,50,0,3,Strong Democrat,Democrat,White
+87,10,77,94,30,64,NA,3,Strong Republican,Republican,White
+71,29,42,98,97,1,0.25,1,Lean Democrat,Democrat,White
+94,26,68,99,88,11,0.75,2,Not very strong Democrat,Democrat,White
+78,60,18,100,100,0,0.25,2,Not very strong Democrat,Democrat,White
+55,8,47,99,99,0,0,3,Strong Democrat,Democrat,White
+64,28,36,76,75,1,0.5,1,Lean Republican,Republican,White
+88,25,63,74,24,50,NA,3,Strong Democrat,Democrat,White
+88,25,63,51,28,23,0.25,1,Lean Republican,Republican,White
+81,1,80,77,1,76,0.25,1,Lean Democrat,Democrat,White
+53,100,-47,26,79,-53,0.5,2,Not very strong Democrat,Democrat,White
+69,11,58,86,51,35,0,1,Lean Democrat,Democrat,White
+69,23,46,73,42,31,0,3,Strong Democrat,Democrat,White
+65,30,35,100,100,0,0,3,Strong Democrat,Democrat,White
+80,20,60,85,25,60,0,3,Strong Democrat,Democrat,White
+5,98,-93,25,100,-75,0,3,Strong Republican,Republican,White
+96,14,82,93,55,38,0.25,3,Strong Democrat,Democrat,White
+100,0,100,80,12,68,NA,3,Strong Republican,Republican,White
+25,2,23,100,100,0,0.25,1,Lean Democrat,Democrat,White
+100,100,0,98,72,26,NA,1,Lean Democrat,Democrat,Hispanic
+51,51,0,NA,NA,NA,1,1,Lean Republican,Republican,White
+47,82,-35,60,72,-12,NA,2,Not very strong Republican,Republican,Hispanic
+99,3,96,100,0,100,0.25,3,Strong Democrat,Democrat,White
+70,0,70,100,100,0,0,1,Lean Democrat,Democrat,White
+69,0,69,74,14,60,0,3,Strong Democrat,Democrat,White
+76,9,67,88,69,19,NA,3,Strong Republican,Republican,White
+89,11,78,87,56,31,0,2,Not very strong Democrat,Democrat,White
+54,30,24,85,75,10,0.25,1,Lean Democrat,Democrat,White
+56,2,54,78,25,53,0.25,2,Not very strong Republican,Republican,White
+91,35,56,92,52,40,0,2,Not very strong Republican,Republican,White
+99,0,99,NA,NA,NA,1,3,Strong Republican,Republican,White
+86,34,52,92,43,49,0.5,1,Lean Republican,Republican,White
