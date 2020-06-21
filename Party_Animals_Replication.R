@@ -19,8 +19,6 @@ library(gplots)
 library(car)
 library(Hmisc)
 
-setwd("/Users/jamesmartherus/Dropbox/Party_Animals/Replication/")
-
 cces14_data <- read.csv("cces14.csv")
 cces18_data <- read.csv("cces18.csv")
 ssi18_data <- read.csv("ssi18.csv")
@@ -373,7 +371,7 @@ dev.off()
 # Figure 9a
 ############
 
-Variables <- data.frame(depvar=cces14_data$animalistic_mean, treat=cces14_data$Shame_treat, pid=cces14_data$pid3lean, weight=cces14_data$weight)
+Variables <- data.frame(depvar=cces14_data$animalistic_mean, treat=cces14_data$Shame_treat, pid=cces14_data$pid3lean, weight=cces14_data$wait)
 attach(Variables)
 
 weighted<-svydesign(id=~0, weights=~weight, data=Variables)
@@ -391,7 +389,7 @@ ggplot(descriptives_matrix, aes(x = as.factor(pid), y = depvar, colour=as.factor
 # Figure 9b
 ############
 
-Variables <- data.frame(depvar=cces14_data$robotic_mean, treat=cces14_data$Shame_treat, pid=cces14_data$pid3lean, weight=cces14_data$weight)
+Variables <- data.frame(depvar=cces14_data$robotic_mean, treat=cces14_data$Shame_treat, pid=cces14_data$pid3lean, weight=cces14_data$wait)
 attach(Variables)
 
 weighted<-svydesign(id=~0, weights=~weight, data=Variables)
